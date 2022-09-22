@@ -11,16 +11,12 @@ Renault,246424,120,diesel,black,estate,True,True,False,False,False,False,True,77
 Peugeot,203950,105,diesel,white,estate,False,True,False,False,False,False,True,89
 Renault,158002,85,diesel,white,estate,False,False,False,False,False,False,True,94
 Peugeot,193476,105,diesel,silver,estate,False,False,False,False,False,False,False,81
-Citroën,209208,135,diesel,black,estate,False,False,False,False,False,False,False,28
 Renault,135119,85,diesel,white,estate,False,True,False,False,False,False,True,104
 Renault,199603,120,diesel,blue,estate,True,True,True,False,True,False,True,114
 Peugeot,41142,105,diesel,blue,estate,False,False,False,False,False,False,False,135
 Renault,46738,85,diesel,black,estate,False,False,False,False,False,False,False,120
-Citroën,146639,135,diesel,silver,estate,False,True,False,False,False,False,True,28
-Renault,159983,85,diesel,grey,estate,False,False,False,False,False,False,False,28
 Renault,156627,85,diesel,blue,estate,False,True,False,False,False,False,True,95
 Peugeot,146338,105,diesel,black,estate,False,True,False,False,False,False,True,115
-Renault,270884,100,diesel,blue,estate,True,False,False,False,False,False,True,33
 Audi,175096,160,diesel,blue,estate,False,False,False,False,False,False,False,81
 Citroën,155503,135,diesel,blue,estate,False,True,False,False,False,False,True,110
 Audi,134094,160,diesel,white,estate,False,False,False,False,False,False,False,126
@@ -30,10 +26,7 @@ Audi,106054,160,diesel,black,estate,False,True,False,False,False,False,True,137
 Renault,146528,140,diesel,white,estate,True,True,True,False,False,False,True,136
 Citroën,183403,135,diesel,grey,estate,False,True,False,False,False,False,True,107
 Renault,130852,85,diesel,white,estate,False,False,False,False,False,False,False,88
-Citroën,186697,135,diesel,white,estate,False,False,False,False,False,False,False,49
 Citroën,132746,135,diesel,white,estate,False,False,False,False,False,False,False,109
-Citroën,101013,120,diesel,blue,estate,False,True,False,False,False,False,True,28
-Renault,130019,85,diesel,white,estate,False,False,False,False,False,False,False,28
 Citroën,90747,160,diesel,grey,estate,False,False,False,False,False,False,False,106
 Renault,145179,85,diesel,brown,estate,False,True,False,False,False,False,True,97
 Citroën,87171,135,diesel,silver,estate,False,False,False,False,False,False,False,137
@@ -41,12 +34,10 @@ Citroën,110212,135,diesel,black,estate,False,False,False,False,False,False,Fals
 Peugeot,11917,110,diesel,white,estate,False,False,False,False,False,False,False,153
 Peugeot,12508,110,diesel,white,estate,False,False,False,False,False,False,False,154
 Peugeot,122357,105,diesel,grey,estate,False,True,False,False,False,False,True,117
-Citroën,165516,135,diesel,blue,estate,False,False,False,False,False,False,True,28
 Peugeot,158853,100,diesel,black,estate,True,False,False,False,False,False,True,104
 Peugeot,167280,105,diesel,white,estate,False,True,False,False,False,False,True,115
 Citroën,69978,135,diesel,grey,estate,False,False,False,False,False,False,False,134
 Peugeot,105105,105,diesel,white,estate,False,False,False,False,False,False,False,77
-Peugeot,170164,105,diesel,grey,estate,False,True,False,False,False,False,True,28
 Peugeot,153585,105,diesel,white,estate,False,False,False,False,False,False,False,117
 Audi,156127,190,diesel,black,estate,True,True,False,False,True,True,True,133
 Citroën,117722,122,diesel,black,estate,False,False,False,False,False,False,True,96
@@ -58,14 +49,12 @@ Citroën,163879,120,diesel,grey,estate,False,False,False,False,False,False,True,
 Audi,137744,200,petrol,black,estate,False,True,True,False,True,False,False,142
 Renault,94829,85,diesel,grey,estate,False,False,False,False,False,False,False,112
 Citroën,58673,135,diesel,grey,estate,False,False,False,False,False,False,False,135
-Citroën,183683,135,diesel,black,estate,False,False,False,False,False,False,True,35
 Citroën,153236,135,diesel,blue,estate,False,True,False,True,False,False,True,109
 Peugeot,65933,105,diesel,white,estate,False,False,False,False,False,False,False,123
 Citroën,77419,120,diesel,grey,estate,False,False,False,False,False,False,False,110
 Citroën,170322,120,diesel,black,estate,False,False,False,False,False,False,False,113
 Renault,83133,85,diesel,white,estate,False,True,False,False,False,False,True,120
 Citroën,140324,135,diesel,silver,estate,False,False,False,False,False,False,False,88
-Peugeot,147097,105,diesel,black,estate,False,False,False,False,False,False,False,28
 Peugeot,132871,85,diesel,grey,estate,True,False,False,False,False,False,True,66
 Peugeot,109741,100,diesel,grey,estate,True,True,False,False,False,False,True,110
 Renault,238036,120,diesel,black,estate,True,True,False,False,False,False,True,114
@@ -86,13 +75,11 @@ Citroën,177568,120,diesel,brown,estate,False,True,False,False,False,False,True,
 Citroën,106878,135,diesel,white,estate,False,True,False,False,True,True,True,124
 Peugeot,144727,105,diesel,white,estate,False,True,True,False,True,True,True,120
 Audi,46731,140,diesel,blue,estate,False,False,False,False,False,False,False,109
-Citroën,150969,135,diesel,blue,estate,False,False,False,False,False,False,True,28
 Peugeot,164900,100,diesel,silver,estate,False,True,False,False,False,False,True,85
 Renault,117872,85,diesel,black,estate,True,True,False,False,False,False,True,102
 Citroën,66314,135,diesel,white,estate,False,False,False,False,False,False,False,127
 Peugeot,216114,105,diesel,blue,estate,False,True,False,False,False,False,True,99
 Peugeot,159505,100,diesel,grey,estate,False,False,False,False,False,False,True,100
-Citroën,221904,100,diesel,blue,estate,True,False,False,False,True,False,True,35
 Renault,147243,120,diesel,blue,estate,True,True,True,False,True,False,True,128
 Audi,140638,160,diesel,black,estate,True,True,False,False,True,True,True,133
 Citroën,123796,135,diesel,black,estate,True,True,False,False,True,True,True,125
@@ -116,7 +103,6 @@ Peugeot,195032,100,diesel,grey,estate,False,False,False,False,False,False,True,7
 Peugeot,228885,100,diesel,grey,estate,True,True,True,False,False,False,True,77
 Renault,214613,85,diesel,white,estate,False,True,False,False,False,False,True,91
 Peugeot,154190,105,diesel,black,estate,False,True,False,False,True,False,True,106
-Citroën,243093,110,diesel,grey,estate,True,False,False,False,False,False,True,37
 Peugeot,79526,105,diesel,white,estate,False,False,False,False,False,False,False,122
 Citroën,169449,135,diesel,brown,estate,True,False,False,False,False,False,True,103
 Renault,157968,120,diesel,grey,estate,True,True,True,False,True,False,True,119
@@ -166,10 +152,8 @@ Peugeot,165851,105,diesel,grey,estate,True,True,False,False,False,False,True,104
 Citroën,171266,120,diesel,white,estate,True,True,False,False,True,True,True,127
 Renault,161666,135,diesel,black,estate,False,True,True,False,True,False,True,123
 Citroën,229128,135,diesel,white,estate,True,True,False,False,True,True,True,114
-Audi,130500,160,diesel,silver,estate,False,True,False,False,False,False,True,28
 Renault,168180,135,diesel,black,estate,True,True,False,False,True,True,True,126
 Citroën,106596,135,diesel,black,estate,False,True,False,False,False,False,True,112
-Peugeot,164889,105,diesel,grey,estate,False,True,False,False,False,False,True,28
 Citroën,165599,135,diesel,black,estate,True,True,False,False,True,False,True,128
 Audi,159773,190,diesel,grey,estate,False,True,False,True,True,False,True,117
 Renault,212710,110,diesel,black,estate,True,True,False,False,False,False,True,71
@@ -178,7 +162,6 @@ Renault,84734,85,diesel,grey,estate,False,True,False,False,False,False,True,112
 Audi,121436,230,diesel,black,estate,False,True,True,True,True,True,True,177
 Citroën,47771,135,diesel,silver,estate,False,True,False,False,False,False,True,114
 Renault,164998,85,diesel,black,estate,True,True,False,False,False,False,True,105
-Peugeot,129901,105,diesel,blue,estate,False,True,False,False,False,False,True,28
 Renault,109391,140,diesel,grey,estate,True,True,False,True,True,True,True,160
 Peugeot,185141,105,diesel,grey,estate,False,True,False,False,False,False,True,106
 Audi,140904,190,diesel,white,estate,False,True,True,False,True,True,True,144
@@ -218,7 +201,6 @@ Audi,201782,141,petrol,blue,estate,True,True,True,False,True,True,True,79
 Peugeot,116892,105,diesel,blue,estate,False,False,False,False,False,False,False,100
 Citroën,124389,135,diesel,black,estate,True,True,False,False,True,False,True,130
 Renault,161739,85,diesel,grey,estate,False,True,False,False,False,False,True,105
-Renault,176557,85,diesel,black,estate,False,False,False,False,False,False,True,28
 Audi,193500,100,diesel,black,estate,True,True,False,False,True,False,True,114
 Peugeot,144913,105,diesel,blue,estate,True,True,False,False,False,False,True,101
 Citroën,135491,120,diesel,black,estate,True,True,False,False,False,True,True,112
@@ -261,7 +243,6 @@ Citroën,145903,135,diesel,white,estate,False,True,False,True,False,True,True,11
 Citroën,151490,135,diesel,black,estate,False,True,False,False,False,False,True,108
 Renault,145918,120,diesel,grey,estate,True,True,False,False,True,False,True,100
 Citroën,134304,120,diesel,black,estate,True,True,True,False,True,False,True,126
-Renault,271181,100,diesel,blue,estate,True,False,False,False,False,False,True,28
 Citroën,113846,135,diesel,grey,estate,False,True,False,True,False,False,True,119
 Renault,145193,85,diesel,grey,estate,True,True,False,False,False,False,True,105
 Citroën,199053,135,diesel,white,estate,False,True,False,False,True,True,True,99
@@ -387,7 +368,6 @@ Renault,211276,137,diesel,blue,estate,False,True,False,False,False,False,True,91
 Peugeot,104961,100,diesel,silver,estate,False,True,False,False,False,False,True,100
 Audi,124030,160,diesel,black,estate,True,True,False,False,False,False,True,149
 Audi,160471,160,diesel,black,estate,False,True,False,False,True,False,True,125
-Citroën,179358,120,diesel,black,estate,False,True,False,False,False,False,True,10
 Renault,230225,120,diesel,grey,estate,True,True,False,False,False,False,True,80
 Citroën,77499,160,diesel,white,estate,False,False,False,False,False,False,True,122
 Peugeot,145471,105,diesel,black,estate,False,False,False,False,False,True,True,104
@@ -405,11 +385,9 @@ Renault,47064,140,diesel,black,estate,True,True,False,False,False,True,True,151
 Renault,121365,135,diesel,grey,estate,True,True,False,False,True,True,True,128
 Audi,159986,190,diesel,brown,estate,True,True,True,True,True,False,True,141
 Renault,177268,135,diesel,blue,estate,True,True,False,False,True,False,True,120
-Citroën,114771,135,diesel,blue,estate,False,True,False,False,False,False,True,28
 Renault,20597,140,diesel,black,estate,True,True,False,False,True,False,True,136
 Renault,32976,140,diesel,black,estate,True,True,False,False,True,False,True,170
 Audi,168639,173,diesel,blue,estate,True,True,False,False,True,True,True,100
-Peugeot,115171,105,diesel,white,estate,False,False,False,False,False,False,False,28
 Citroën,180953,135,diesel,blue,estate,True,True,False,False,True,False,True,112
 Renault,154062,135,diesel,black,estate,False,True,False,False,True,True,True,127
 Renault,147256,85,diesel,blue,estate,True,True,False,False,False,False,True,100
@@ -449,7 +427,6 @@ Renault,163972,85,diesel,black,estate,False,True,False,False,False,False,True,10
 Citroën,195501,135,diesel,white,estate,False,False,False,False,False,False,True,100
 Citroën,107393,135,diesel,white,estate,False,True,False,False,True,False,True,123
 Peugeot,159451,105,diesel,black,estate,False,True,False,False,False,False,True,113
-Peugeot,147558,105,diesel,white,estate,False,True,False,False,False,False,False,10
 Citroën,236009,135,diesel,blue,estate,False,False,False,False,False,False,True,67
 Peugeot,161595,100,diesel,black,estate,True,True,False,False,False,False,True,97
 Peugeot,153062,100,diesel,grey,estate,True,True,False,False,False,False,True,104
@@ -466,7 +443,6 @@ Renault,157831,135,diesel,grey,estate,True,True,False,False,True,False,True,117
 Peugeot,145306,100,diesel,brown,estate,False,True,False,False,False,False,True,103
 Audi,200001,105,diesel,brown,estate,True,True,True,False,True,False,True,124
 Renault,142340,140,diesel,black,estate,True,True,True,False,True,True,True,142
-Audi,177041,160,diesel,black,estate,True,True,True,False,False,False,True,28
 Peugeot,160333,100,diesel,white,estate,False,False,False,False,False,True,True,98
 Renault,98536,135,diesel,grey,estate,True,True,False,False,True,False,True,125
 Peugeot,132747,105,diesel,black,estate,False,True,False,False,True,False,True,109
@@ -501,7 +477,6 @@ Citroën,235022,110,diesel,black,estate,True,False,True,False,False,False,True,6
 Audi,148632,190,diesel,black,estate,True,True,True,True,True,True,True,139
 Citroën,187608,135,diesel,blue,estate,True,True,False,False,False,False,True,107
 Peugeot,175042,105,diesel,blue,estate,False,True,False,False,True,False,True,110
-Peugeot,161215,105,diesel,brown,estate,False,False,False,False,False,False,True,28
 Audi,130121,190,diesel,grey,estate,True,True,True,True,True,False,True,143
 Peugeot,121430,105,diesel,white,estate,False,True,False,False,True,False,True,125
 Renault,210105,85,diesel,grey,estate,False,True,False,False,False,False,True,94
@@ -509,7 +484,6 @@ Audi,199520,160,diesel,silver,estate,False,True,False,True,True,False,True,122
 Citroën,97634,120,diesel,black,estate,False,True,False,False,False,False,True,123
 Renault,177557,120,diesel,grey,estate,True,True,False,False,False,False,True,107
 Peugeot,154267,105,diesel,black,estate,False,False,False,False,False,False,True,109
-Renault,258239,100,diesel,blue,estate,True,False,False,False,False,False,True,44
 Peugeot,129614,105,diesel,black,estate,False,True,False,False,False,False,True,116
 Renault,131474,85,diesel,blue,estate,False,True,False,False,False,False,True,103
 Citroën,178944,122,diesel,blue,estate,True,True,False,False,True,False,True,81
@@ -524,7 +498,6 @@ Peugeot,127670,100,diesel,brown,estate,False,True,False,False,False,False,True,1
 Citroën,123492,135,diesel,silver,estate,False,True,False,False,False,False,True,122
 Renault,222723,120,diesel,black,estate,True,True,False,False,False,False,True,78
 Audi,184754,190,diesel,grey,estate,False,True,False,True,True,True,True,141
-Renault,140289,85,diesel,blue,estate,False,False,False,False,False,False,True,28
 Audi,192114,160,diesel,white,estate,True,True,True,True,True,False,True,135
 Peugeot,140525,100,diesel,blue,estate,True,True,False,False,False,False,True,110
 Renault,230451,130,diesel,grey,estate,True,False,False,False,True,False,True,87
@@ -614,7 +587,6 @@ Peugeot,119781,100,diesel,grey,estate,True,True,False,False,False,False,True,107
 Audi,134189,155,diesel,grey,estate,True,True,True,True,True,False,True,127
 Citroën,149074,135,diesel,white,estate,False,True,True,False,False,False,True,104
 Audi,178000,160,diesel,black,estate,True,True,True,False,False,False,True,128
-Audi,197565,120,diesel,blue,estate,True,False,False,False,False,False,True,44
 Audi,39757,160,diesel,grey,estate,True,True,False,True,True,False,True,153
 Audi,128249,190,diesel,black,estate,True,True,False,False,True,True,True,142
 Renault,179339,120,diesel,grey,estate,True,True,False,False,False,False,True,109
@@ -626,7 +598,6 @@ Citroën,201589,137,diesel,white,estate,True,True,False,False,True,True,True,122
 Renault,162610,135,diesel,white,estate,False,True,False,True,True,False,True,143
 Peugeot,206361,105,diesel,blue,estate,False,True,False,False,False,True,True,107
 Citroën,114413,120,diesel,brown,estate,True,True,False,False,False,False,True,119
-Citroën,148909,135,diesel,blue,estate,False,False,False,False,False,False,False,28
 Citroën,111093,135,diesel,black,estate,True,True,True,False,True,True,True,142
 Audi,193694,160,diesel,brown,estate,True,True,False,False,True,True,True,138
 Citroën,187837,135,diesel,black,estate,True,True,False,True,True,True,True,124
@@ -650,11 +621,9 @@ Audi,102732,160,diesel,grey,estate,False,True,False,False,True,False,True,142
 Peugeot,115521,100,diesel,black,estate,False,True,False,False,False,False,True,104
 Peugeot,164550,100,diesel,black,estate,False,False,False,False,False,False,True,70
 Renault,144165,85,diesel,grey,estate,False,True,False,False,False,False,True,109
-Renault,273538,100,diesel,silver,estate,True,False,False,False,False,False,True,36
 Citroën,148188,135,diesel,black,estate,False,True,False,False,True,True,True,118
 Renault,157807,120,diesel,blue,estate,True,True,False,False,False,False,True,117
 Audi,191233,190,diesel,grey,estate,True,True,False,False,True,False,True,129
-Citroën,164973,135,diesel,blue,estate,False,False,False,False,False,False,True,28
 Renault,84454,120,diesel,brown,estate,True,True,False,False,True,False,True,146
 Citroën,183569,135,diesel,brown,estate,False,True,False,False,False,False,True,103
 Citroën,110239,135,diesel,white,estate,False,True,False,True,True,True,True,124
@@ -671,7 +640,6 @@ Renault,157485,85,diesel,brown,estate,False,True,False,False,False,False,True,92
 Renault,145050,120,diesel,black,estate,True,True,False,False,True,True,True,126
 Citroën,175035,135,diesel,black,estate,True,True,False,False,True,False,True,91
 Audi,137237,160,diesel,brown,estate,True,True,False,False,True,True,True,136
-Audi,197468,120,diesel,blue,estate,True,False,False,False,False,False,True,44
 Renault,225684,110,diesel,silver,estate,True,True,False,False,False,False,True,76
 Peugeot,150658,105,diesel,grey,estate,False,True,False,False,True,False,True,115
 Peugeot,157661,100,diesel,blue,estate,False,True,False,False,False,False,True,88
@@ -689,7 +657,6 @@ Renault,171516,135,diesel,black,estate,False,True,False,False,True,False,True,12
 Citroën,78520,135,diesel,silver,estate,False,False,False,False,False,False,False,131
 Citroën,221832,120,diesel,grey,estate,True,True,False,False,True,False,True,107
 Audi,98377,160,diesel,black,estate,True,True,False,True,True,False,True,152
-Peugeot,134156,105,diesel,grey,estate,False,True,False,False,False,False,False,10
 Renault,109653,135,diesel,grey,estate,True,True,True,False,True,True,True,146
 Renault,114112,135,diesel,black,estate,False,True,False,False,True,False,True,132
 Peugeot,223953,90,diesel,grey,estate,True,False,False,False,False,False,True,65
@@ -847,7 +814,6 @@ Renault,144612,120,diesel,grey,estate,True,True,True,False,True,False,True,123
 Renault,143447,135,diesel,black,estate,True,True,False,False,True,True,True,133
 Renault,94753,85,diesel,black,estate,False,True,False,False,False,False,True,106
 Renault,222299,135,diesel,black,estate,True,True,False,False,True,False,True,107
-Peugeot,162048,85,diesel,black,estate,True,False,False,False,True,True,True,57
 Citroën,157035,120,diesel,brown,estate,True,True,False,False,False,False,True,115
 Audi,107751,190,diesel,black,estate,True,True,True,True,True,False,True,169
 Citroën,164110,120,diesel,black,estate,True,True,False,False,True,False,True,111
@@ -901,7 +867,6 @@ Renault,175761,135,diesel,black,estate,True,True,True,False,False,True,True,142
 Citroën,61306,120,diesel,grey,estate,False,True,True,False,False,False,True,94
 Citroën,92482,135,diesel,black,estate,False,True,False,True,False,True,True,142
 Audi,185299,190,diesel,blue,estate,True,True,True,False,True,True,True,142
-Citroën,260531,110,diesel,grey,estate,False,False,False,False,False,False,True,46
 Renault,237366,135,diesel,black,estate,False,True,False,False,False,False,True,112
 Peugeot,153033,105,diesel,black,estate,False,True,False,False,True,False,True,73
 Peugeot,136442,105,diesel,silver,estate,False,True,False,False,False,False,True,112
@@ -922,7 +887,6 @@ Renault,148559,137,petrol,black,estate,True,True,False,False,True,False,True,116
 Renault,180690,85,diesel,grey,estate,False,True,False,False,True,True,True,107
 Renault,153854,135,diesel,black,estate,False,True,False,False,True,True,True,123
 Renault,50522,120,diesel,grey,estate,True,False,False,False,True,False,True,152
-Citroën,293508,110,diesel,grey,estate,True,True,False,False,True,True,True,55
 Citroën,137401,135,diesel,black,estate,False,True,False,False,False,False,True,114
 Citroën,148479,160,diesel,grey,estate,False,True,False,False,False,True,True,131
 Peugeot,155292,105,diesel,white,estate,False,True,False,False,False,False,True,108
@@ -979,10 +943,8 @@ Citroën,167102,120,diesel,black,estate,True,True,False,False,False,False,True,1
 Peugeot,148894,100,diesel,black,estate,True,True,False,False,False,False,True,100
 Peugeot,65462,105,diesel,black,estate,True,True,False,False,False,False,True,98
 Renault,109651,135,diesel,brown,estate,True,True,True,False,True,False,True,142
-Renault,271459,100,diesel,blue,estate,True,False,False,False,False,False,True,35
 Citroën,169732,120,diesel,blue,estate,False,True,False,False,True,False,True,121
 Audi,107195,190,diesel,grey,estate,True,True,False,False,True,True,True,145
-Citroën,280226,110,diesel,grey,estate,False,True,False,False,True,False,True,50
 Renault,196475,85,diesel,blue,estate,False,True,False,False,True,True,True,92
 Citroën,122160,135,diesel,silver,estate,True,False,False,False,False,False,True,120
 Citroën,194982,135,diesel,white,estate,False,True,False,False,False,False,True,110
@@ -997,7 +959,6 @@ Renault,158341,120,diesel,grey,estate,True,True,False,False,False,False,True,109
 Citroën,195889,120,diesel,black,estate,True,True,False,False,False,False,True,111
 Citroën,79351,135,diesel,grey,estate,True,True,True,True,True,True,True,127
 Citroën,236157,135,diesel,blue,estate,False,False,False,False,False,False,True,83
-Peugeot,181952,85,diesel,grey,estate,True,False,False,False,False,False,True,60
 Peugeot,176054,105,diesel,white,estate,True,True,True,False,False,False,True,120
 Audi,208092,160,diesel,black,estate,True,True,True,False,True,True,True,129
 Audi,122370,100,diesel,grey,estate,True,True,False,False,True,False,True,132
@@ -1037,11 +998,9 @@ Renault,186382,120,diesel,silver,estate,True,True,False,False,False,False,True,1
 Citroën,157416,135,diesel,black,estate,False,True,False,False,True,True,True,109
 Citroën,171792,135,diesel,white,estate,False,True,False,False,True,True,True,117
 Peugeot,152402,105,diesel,silver,estate,False,True,False,False,False,False,True,114
-Peugeot,86539,95,petrol,black,estate,True,False,False,False,True,False,True,60
 Renault,130671,140,diesel,blue,estate,True,True,False,True,True,False,True,132
 Citroën,156321,120,diesel,brown,estate,True,True,False,False,False,False,True,115
 Peugeot,173701,100,diesel,black,estate,False,True,False,False,False,False,True,110
-Citroën,170381,135,diesel,silver,estate,True,True,False,False,False,False,True,10
 Peugeot,179240,105,diesel,silver,estate,False,True,True,False,False,True,True,106
 Audi,110058,230,diesel,grey,estate,True,True,True,True,True,False,True,148
 Citroën,129214,120,diesel,blue,estate,False,True,False,False,True,False,True,105
@@ -1051,7 +1010,6 @@ Citroën,148475,120,diesel,brown,estate,False,False,False,False,False,False,Fals
 Renault,190806,135,diesel,white,estate,True,True,False,False,True,False,True,141
 Citroën,181976,120,diesel,blue,estate,True,True,False,False,True,True,True,97
 Peugeot,198531,100,diesel,silver,estate,False,True,False,False,False,False,True,91
-Citroën,284984,110,diesel,grey,estate,True,False,False,False,True,False,True,35
 Citroën,179203,122,diesel,black,estate,False,True,False,False,True,False,True,120
 Renault,139012,135,diesel,grey,estate,True,True,False,False,True,True,True,127
 Citroën,167347,135,diesel,grey,estate,False,False,False,False,True,False,True,115
@@ -1184,7 +1142,6 @@ Peugeot,126284,100,diesel,black,estate,True,True,False,False,False,True,True,103
 Peugeot,99110,100,diesel,blue,estate,False,True,False,False,False,False,True,106
 Renault,201584,130,diesel,black,estate,True,True,True,False,True,False,True,89
 Audi,223995,155,diesel,black,estate,True,True,False,True,True,False,True,122
-Renault,258439,100,diesel,blue,estate,True,False,False,False,False,False,True,44
 Peugeot,220580,100,diesel,blue,estate,True,True,False,False,False,False,True,80
 Peugeot,183572,100,diesel,blue,estate,False,True,False,False,False,False,True,82
 Citroën,195407,120,diesel,blue,estate,True,True,True,False,False,True,True,91
@@ -1308,7 +1265,6 @@ Citroën,166458,135,diesel,grey,estate,True,True,False,False,True,False,True,116
 Renault,266990,135,diesel,grey,estate,True,True,False,False,True,False,True,109
 Citroën,126735,135,diesel,grey,estate,False,True,False,False,True,False,True,119
 Citroën,55937,135,diesel,silver,estate,False,True,False,True,False,False,True,133
-Renault,132302,85,diesel,grey,estate,True,True,False,False,False,True,True,36
 Audi,160709,190,diesel,blue,estate,True,True,True,True,True,False,True,117
 Peugeot,124831,100,diesel,grey,estate,True,True,False,False,False,False,True,102
 Renault,147910,120,diesel,grey,estate,True,True,False,False,True,False,True,130
@@ -1345,7 +1301,6 @@ Audi,162243,155,diesel,grey,estate,True,True,False,True,True,False,True,125
 Peugeot,191804,100,diesel,grey,estate,False,True,False,False,True,True,True,62
 Citroën,148555,135,diesel,silver,estate,True,False,False,False,True,False,True,120
 Peugeot,164659,100,diesel,white,estate,True,True,False,False,False,False,True,102
-Citroën,284716,110,diesel,grey,estate,True,False,False,False,True,False,True,35
 Peugeot,146065,100,diesel,blue,estate,True,True,False,False,False,True,True,103
 Peugeot,191319,100,diesel,grey,estate,True,True,False,False,False,False,True,100
 Peugeot,191538,105,diesel,black,estate,False,True,False,False,True,False,True,107
@@ -1359,7 +1314,6 @@ Citroën,176220,120,diesel,black,estate,True,True,False,False,False,True,True,11
 Citroën,156147,120,diesel,silver,estate,True,True,False,False,False,False,True,108
 Renault,167923,135,diesel,blue,estate,True,True,False,False,True,True,True,115
 Peugeot,83553,100,diesel,brown,estate,False,True,False,False,False,False,True,111
-Citroën,292178,110,diesel,grey,estate,True,False,False,False,False,False,True,40
 Peugeot,155440,105,diesel,silver,estate,False,True,False,False,True,False,True,113
 Peugeot,117169,100,diesel,black,estate,True,True,False,False,False,False,True,117
 Peugeot,127374,100,diesel,grey,estate,False,True,False,False,False,False,True,114
@@ -1429,7 +1383,6 @@ Audi,110342,190,diesel,white,estate,True,True,True,True,True,True,True,159
 Audi,105183,155,diesel,brown,estate,True,True,True,False,True,False,True,142
 Audi,169643,155,diesel,grey,estate,True,True,True,False,True,True,True,147
 Peugeot,85227,100,diesel,blue,estate,True,True,False,False,True,False,True,110
-Renault,185170,120,diesel,grey,estate,True,True,False,False,False,False,True,60
 Peugeot,152967,100,diesel,grey,estate,True,True,False,False,False,False,True,104
 Audi,174311,190,diesel,grey,estate,True,True,True,True,True,False,True,117
 Peugeot,107728,105,diesel,blue,estate,True,True,False,False,True,False,True,120
@@ -1505,7 +1458,6 @@ Audi,263395,130,diesel,blue,estate,True,True,False,False,True,False,True,83
 Renault,140538,85,diesel,brown,estate,True,True,False,False,False,False,True,84
 Peugeot,78430,100,diesel,black,estate,True,True,False,False,False,False,True,124
 Renault,135405,140,diesel,grey,estate,False,False,False,False,True,False,True,120
-Citroën,103095,110,diesel,silver,estate,False,True,False,False,False,False,True,57
 Citroën,171327,120,diesel,black,estate,True,True,False,False,False,True,True,107
 Peugeot,144215,100,diesel,silver,estate,False,True,False,False,False,False,True,104
 Citroën,196508,120,diesel,grey,estate,False,True,False,False,False,False,True,93
@@ -1541,14 +1493,12 @@ Mercedes,181672,105,diesel,white,hatchback,True,True,False,False,True,False,True
 Audi,55308,135,diesel,brown,hatchback,True,True,True,False,False,False,True,150
 Peugeot,107246,135,diesel,blue,hatchback,False,False,False,False,False,False,False,116
 BMW,42500,85,diesel,black,hatchback,False,True,False,False,False,False,True,117
-BMW,44969,100,petrol,black,hatchback,False,False,False,False,False,False,False,49
 BMW,119045,85,diesel,white,hatchback,False,True,False,False,True,True,True,105
 BMW,74088,85,diesel,grey,hatchback,False,False,False,False,False,False,True,100
 Peugeot,90599,135,diesel,grey,hatchback,True,False,False,True,True,False,True,115
 BMW,75617,85,diesel,white,hatchback,False,False,False,False,False,False,False,106
 BMW,10708,85,diesel,grey,hatchback,False,True,False,False,False,False,True,105
 Citroën,119192,105,diesel,black,hatchback,False,False,False,False,False,False,False,101
-Citroën,120350,105,diesel,grey,hatchback,False,True,False,False,False,False,True,60
 BMW,114077,85,diesel,grey,hatchback,False,False,False,False,False,False,True,96
 Citroën,61993,105,diesel,grey,hatchback,False,False,False,False,False,False,True,102
 Citroën,142907,105,diesel,blue,hatchback,False,False,False,False,False,False,False,71
@@ -1559,11 +1509,9 @@ Citroën,123816,140,diesel,black,hatchback,False,False,False,False,False,False,F
 BMW,103195,85,diesel,grey,hatchback,True,True,False,False,False,False,True,104
 BMW,127723,85,diesel,grey,hatchback,False,False,False,False,False,False,True,93
 Volkswagen,179307,70,diesel,blue,hatchback,False,True,False,False,False,False,True,91
-Renault,194632,110,petrol,silver,hatchback,False,False,True,False,False,False,True,30
 BMW,74031,85,diesel,black,hatchback,False,True,False,False,False,False,True,110
 BMW,71037,85,diesel,blue,hatchback,True,True,False,False,True,True,True,103
 BMW,101583,85,diesel,black,hatchback,False,False,False,False,False,True,True,94
-Citroën,281110,105,diesel,black,hatchback,False,False,False,False,False,False,True,59
 Citroën,103794,100,diesel,grey,hatchback,False,True,True,False,True,True,True,125
 Citroën,98953,100,diesel,grey,hatchback,True,False,True,False,False,True,True,99
 Volkswagen,91911,135,diesel,grey,hatchback,False,True,False,False,True,False,True,156
@@ -1578,13 +1526,11 @@ BMW,108352,85,diesel,grey,hatchback,False,True,False,False,False,False,True,106
 Citroën,27451,100,diesel,black,hatchback,False,False,False,False,True,True,True,126
 Audi,178650,192,diesel,grey,hatchback,True,True,False,False,True,False,True,145
 Audi,144854,135,diesel,white,hatchback,False,True,False,True,True,False,True,135
-Citroën,71718,105,diesel,black,hatchback,False,True,False,False,False,False,True,55
 Audi,164545,135,diesel,black,hatchback,False,True,False,True,True,True,True,127
 Citroën,15106,110,diesel,grey,hatchback,False,True,False,False,False,True,True,126
 BMW,146918,85,diesel,white,hatchback,True,True,False,False,False,False,True,107
 BMW,139656,85,diesel,white,hatchback,False,True,False,False,True,False,True,97
 BMW,181016,85,diesel,black,hatchback,False,True,False,False,True,False,True,109
-BMW,174524,85,diesel,blue,hatchback,False,True,False,False,False,False,True,10
 BMW,116739,85,diesel,brown,hatchback,False,True,False,False,False,False,True,94
 Mercedes,170478,105,diesel,grey,hatchback,False,True,False,False,True,True,True,129
 BMW,202753,85,diesel,grey,hatchback,True,True,False,False,False,True,True,96
@@ -1611,7 +1557,6 @@ Citroën,150445,120,diesel,black,hatchback,True,True,False,False,False,False,Tru
 BMW,147270,85,diesel,black,hatchback,False,True,False,False,True,False,True,103
 Citroën,186656,105,diesel,black,hatchback,False,False,False,False,False,False,True,70
 Citroën,188183,100,diesel,black,hatchback,False,False,False,False,False,False,True,68
-Citroën,192063,90,diesel,black,hatchback,False,False,False,False,False,False,True,57
 BMW,156386,85,diesel,black,hatchback,False,True,False,False,False,False,True,94
 Citroën,127155,125,petrol,blue,hatchback,False,True,False,False,True,False,True,85
 BMW,103226,85,diesel,white,hatchback,False,True,False,False,True,False,True,114
@@ -1627,10 +1572,8 @@ Renault,180010,142,diesel,black,hatchback,True,True,False,False,True,True,True,1
 Peugeot,144561,135,diesel,blue,hatchback,True,True,False,False,False,False,True,100
 Citroën,112595,127,petrol,black,hatchback,True,True,False,False,True,True,True,120
 BMW,154269,85,diesel,silver,hatchback,False,False,False,False,False,False,True,93
-Citroën,118097,105,diesel,white,hatchback,False,False,False,False,False,False,False,28
 BMW,74331,85,diesel,black,hatchback,False,False,False,False,False,False,True,102
 Audi,117082,135,diesel,black,hatchback,False,True,False,False,True,False,True,132
-BMW,127059,85,diesel,grey,hatchback,False,False,False,False,False,False,False,60
 Citroën,165476,122,diesel,white,hatchback,True,True,False,False,True,False,True,125
 BMW,16615,85,diesel,black,hatchback,False,True,False,False,False,False,True,127
 Audi,176176,120,diesel,grey,hatchback,True,True,False,False,False,True,True,124
@@ -1696,7 +1639,6 @@ Peugeot,74846,135,diesel,white,hatchback,False,True,True,False,False,False,False
 Mercedes,152385,105,diesel,black,hatchback,True,True,False,False,True,False,True,126
 Volkswagen,153280,100,diesel,black,hatchback,True,True,False,False,True,False,True,144
 BMW,53686,85,diesel,black,hatchback,False,True,False,False,False,False,True,109
-BMW,27531,85,diesel,black,hatchback,False,True,False,False,True,True,True,53
 Mercedes,180032,105,diesel,grey,hatchback,True,True,False,False,False,False,True,120
 Citroën,201492,120,diesel,black,hatchback,False,False,False,False,False,False,False,120
 BMW,177472,85,diesel,black,hatchback,False,False,False,False,False,False,True,85
@@ -1717,7 +1659,6 @@ BMW,90932,85,diesel,grey,hatchback,False,True,False,False,False,False,False,97
 Audi,193202,135,diesel,black,hatchback,False,True,True,False,True,False,False,127
 Audi,117387,135,diesel,grey,hatchback,False,True,False,False,False,False,True,132
 BMW,82721,85,diesel,white,hatchback,False,True,False,False,False,False,True,112
-BMW,147708,85,petrol,black,hatchback,False,False,False,False,False,False,True,57
 Citroën,73651,135,petrol,black,hatchback,False,False,False,False,False,False,False,122
 Citroën,183958,120,diesel,grey,hatchback,False,False,False,False,False,True,True,107
 Audi,94829,120,diesel,blue,hatchback,True,True,True,False,True,False,True,127
@@ -1827,7 +1768,6 @@ Audi,203550,135,diesel,blue,hatchback,True,True,False,False,False,False,True,116
 BMW,39555,85,diesel,black,hatchback,False,False,False,False,False,False,True,66
 Peugeot,136955,135,diesel,blue,hatchback,False,False,False,False,False,True,True,113
 Citroën,201187,105,diesel,silver,hatchback,False,False,False,False,False,False,True,71
-BMW,168233,85,diesel,black,hatchback,False,True,False,False,False,False,True,60
 Volkswagen,66816,110,diesel,silver,hatchback,False,True,False,False,True,False,True,127
 BMW,219066,85,diesel,blue,hatchback,True,True,False,False,False,False,True,97
 Mercedes,183272,105,diesel,blue,hatchback,False,True,False,False,False,False,True,109
@@ -1859,7 +1799,6 @@ BMW,48859,85,diesel,black,hatchback,False,True,False,False,False,False,True,109
 Audi,206236,135,diesel,grey,hatchback,True,True,False,True,True,True,True,127
 Mercedes,211133,100,diesel,blue,hatchback,False,True,False,False,False,False,True,116
 BMW,155916,85,diesel,black,hatchback,False,True,False,False,True,False,False,99
-Citroën,198577,90,diesel,silver,hatchback,False,False,False,False,False,False,True,57
 Volkswagen,56421,135,diesel,brown,hatchback,True,True,False,False,True,False,True,147
 Audi,179530,135,diesel,blue,hatchback,True,True,True,True,True,True,True,133
 Audi,154184,135,diesel,grey,hatchback,False,True,False,False,True,True,True,130
@@ -1873,7 +1812,6 @@ BMW,97884,85,diesel,brown,hatchback,True,True,False,False,False,False,True,106
 Mercedes,172930,100,diesel,grey,hatchback,True,True,False,False,True,False,True,115
 Audi,100491,140,diesel,black,hatchback,True,True,False,False,True,True,True,135
 Citroën,116577,105,diesel,black,hatchback,True,False,False,False,False,True,True,100
-Citroën,230189,90,diesel,brown,hatchback,False,False,False,False,False,True,True,57
 Mercedes,132280,105,diesel,blue,hatchback,True,True,True,False,True,True,True,122
 BMW,169094,85,diesel,black,hatchback,False,True,False,False,False,False,True,107
 BMW,156699,85,diesel,blue,hatchback,False,True,False,False,True,False,False,101
@@ -1897,7 +1835,6 @@ Mercedes,179630,100,diesel,blue,hatchback,False,True,True,False,False,False,True
 BMW,217179,85,diesel,black,hatchback,True,True,False,False,True,False,True,93
 Citroën,138226,90,diesel,black,hatchback,False,False,True,False,False,True,True,68
 Audi,104753,135,diesel,blue,hatchback,True,True,True,False,False,False,True,132
-BMW,111308,85,petrol,black,hatchback,False,False,False,False,True,False,True,59
 Citroën,47551,110,diesel,grey,hatchback,False,True,False,False,False,False,True,118
 BMW,38917,85,diesel,white,hatchback,False,True,False,False,False,False,False,84
 BMW,147313,85,diesel,grey,hatchback,False,False,False,False,False,False,False,94
@@ -2031,7 +1968,6 @@ BMW,98204,85,diesel,black,hatchback,False,True,False,False,True,True,True,107
 Citroën,174514,100,diesel,black,hatchback,False,False,False,False,False,False,True,70
 BMW,150130,85,diesel,blue,hatchback,True,True,False,False,True,False,True,106
 BMW,189285,100,petrol,black,hatchback,False,True,False,False,False,False,True,94
-Citroën,245775,90,diesel,black,hatchback,True,True,False,False,False,False,True,57
 Renault,84187,230,diesel,grey,hatchback,True,True,False,False,True,False,True,173
 Renault,70840,230,diesel,white,hatchback,True,True,False,True,True,False,True,191
 BMW,116652,85,diesel,blue,hatchback,False,True,False,False,False,False,True,96
@@ -2042,7 +1978,6 @@ Citroën,108680,105,diesel,grey,hatchback,False,True,False,False,False,False,Tru
 Audi,95584,135,diesel,brown,hatchback,True,True,False,False,True,True,True,148
 BMW,88491,85,diesel,black,hatchback,False,False,False,False,False,False,True,101
 BMW,155733,85,diesel,black,hatchback,False,True,False,False,False,False,True,100
-Citroën,243524,110,diesel,grey,hatchback,False,False,True,False,False,True,True,33
 Mercedes,225046,105,diesel,black,hatchback,True,True,False,False,False,True,True,114
 BMW,57727,85,diesel,black,hatchback,False,False,False,False,False,False,True,98
 Mercedes,182506,100,diesel,blue,hatchback,False,True,False,False,False,False,True,114
@@ -2056,7 +1991,6 @@ Audi,191795,135,petrol,grey,hatchback,True,True,False,False,False,False,True,110
 Citroën,59424,100,diesel,black,hatchback,True,False,False,False,True,True,True,119
 BMW,64215,85,diesel,blue,hatchback,False,False,False,False,False,False,True,100
 Volkswagen,181419,120,diesel,grey,hatchback,True,True,False,False,False,False,True,134
-BMW,131547,85,diesel,blue,hatchback,True,True,False,False,False,False,True,60
 Citroën,96941,100,diesel,blue,hatchback,False,True,False,False,True,True,True,104
 Mercedes,148625,105,diesel,black,hatchback,False,False,False,False,True,False,True,124
 BMW,199943,85,diesel,black,hatchback,False,True,False,False,False,False,True,91
@@ -2091,7 +2025,6 @@ Mercedes,129060,100,diesel,grey,hatchback,False,True,False,False,False,True,True
 Citroën,134449,105,diesel,black,hatchback,False,False,False,False,False,False,True,87
 BMW,149379,85,diesel,white,hatchback,False,True,False,False,True,True,True,107
 BMW,109621,85,diesel,grey,hatchback,True,True,False,False,False,False,True,104
-Peugeot,170529,66,diesel,silver,hatchback,False,False,True,False,False,False,False,32
 BMW,141587,85,diesel,black,hatchback,False,False,False,False,True,False,True,96
 Citroën,167897,105,diesel,white,hatchback,False,True,False,False,True,True,True,114
 BMW,186764,85,diesel,black,hatchback,False,True,False,False,False,False,True,89
@@ -2152,19 +2085,16 @@ Renault,153079,85,diesel,brown,sedan,False,True,False,False,False,False,True,105
 Audi,129456,180,diesel,blue,sedan,False,True,False,False,False,False,True,104
 Renault,126769,160,diesel,black,sedan,False,False,False,False,False,False,False,125
 Citroën,105069,135,diesel,blue,sedan,True,True,True,False,False,False,True,104
-Renault,230442,85,petrol,black,sedan,False,False,True,False,True,False,True,42
 Citroën,158734,120,diesel,grey,sedan,False,True,False,False,False,False,True,115
 Citroën,123696,135,diesel,silver,sedan,False,True,True,False,False,False,True,115
 Citroën,179627,120,diesel,grey,sedan,False,False,False,False,False,False,False,114
 Citroën,157195,120,diesel,black,sedan,False,True,False,False,False,False,True,109
 Renault,160598,85,diesel,black,sedan,False,False,False,False,False,False,True,102
-Peugeot,257168,85,diesel,black,sedan,False,False,False,False,False,False,True,46
 Renault,90328,135,diesel,black,sedan,False,False,False,False,False,False,False,135
 Audi,146901,230,diesel,black,sedan,True,True,False,False,True,True,True,155
 Renault,139992,85,diesel,silver,sedan,False,True,False,False,False,False,True,107
 Renault,146541,120,diesel,brown,sedan,True,True,False,False,False,False,True,121
 Renault,123045,135,diesel,silver,sedan,False,False,False,False,False,False,False,120
-Audi,230578,85,diesel,black,sedan,False,False,False,False,False,False,True,14
 Citroën,132638,135,diesel,white,sedan,False,False,False,False,False,False,False,110
 Audi,48735,160,diesel,silver,sedan,False,False,False,False,False,False,False,132
 Citroën,160469,135,diesel,white,sedan,False,False,False,False,False,False,False,115
@@ -2191,7 +2121,6 @@ Audi,100160,135,diesel,brown,sedan,False,False,False,False,False,False,False,139
 Renault,72705,135,diesel,white,sedan,False,False,False,False,False,False,False,142
 Renault,94648,160,diesel,grey,sedan,False,True,False,False,False,False,True,129
 Renault,186511,120,diesel,grey,sedan,True,True,False,False,False,False,True,135
-Renault,53450,85,diesel,grey,sedan,False,True,False,False,False,False,False,60
 Volkswagen,222424,190,diesel,blue,sedan,False,False,False,False,False,False,False,141
 Citroën,81891,120,diesel,black,sedan,False,False,False,False,False,False,False,122
 Citroën,145805,120,diesel,brown,sedan,False,False,False,False,False,False,False,128
@@ -2250,7 +2179,6 @@ Audi,177671,190,diesel,black,sedan,True,True,False,False,False,False,True,157
 Renault,77927,120,diesel,grey,sedan,True,True,False,False,False,False,True,136
 Audi,70807,190,diesel,black,sedan,False,True,False,False,False,False,True,155
 Citroën,201565,120,diesel,black,sedan,False,True,False,False,True,False,True,116
-Audi,229880,85,diesel,black,sedan,False,False,False,False,False,False,True,14
 Renault,128498,140,diesel,black,sedan,False,True,True,False,True,True,True,141
 Citroën,124334,105,diesel,grey,sedan,True,True,True,False,False,True,True,113
 Citroën,174444,135,diesel,black,sedan,False,True,False,False,True,False,True,116
@@ -2281,7 +2209,6 @@ Renault,219417,110,diesel,black,sedan,True,True,False,False,False,False,True,87
 Citroën,150228,120,diesel,brown,sedan,True,True,False,False,False,False,True,118
 Audi,129421,135,diesel,white,sedan,False,False,False,True,True,False,True,133
 Renault,133648,85,diesel,brown,sedan,True,True,True,False,True,False,True,111
-Audi,230264,85,diesel,black,sedan,False,False,False,False,False,False,True,14
 Audi,171262,150,diesel,black,sedan,True,True,False,False,False,False,True,127
 Renault,207133,120,diesel,black,sedan,True,True,False,False,False,True,True,105
 Renault,141639,140,diesel,grey,sedan,True,True,True,False,True,True,True,149
@@ -2306,7 +2233,6 @@ Peugeot,170985,105,diesel,black,sedan,False,True,False,False,False,False,True,10
 Renault,171778,135,diesel,blue,sedan,True,True,True,False,True,True,True,137
 Renault,107714,140,diesel,black,sedan,False,True,False,False,True,False,True,130
 Citroën,123428,135,diesel,grey,sedan,False,False,False,True,False,False,True,114
-Citroën,161335,135,diesel,white,sedan,False,False,False,False,False,False,False,28
 Peugeot,144839,100,diesel,black,sedan,True,True,False,False,True,True,True,125
 Renault,103982,230,diesel,grey,sedan,True,True,True,True,True,False,True,202
 Renault,129287,135,diesel,black,sedan,True,True,False,False,False,False,True,129
@@ -2345,9 +2271,7 @@ Renault,92154,120,diesel,grey,sedan,True,True,False,False,False,False,True,128
 Renault,171722,87,diesel,black,sedan,False,False,False,False,False,False,True,102
 Renault,149337,120,diesel,black,sedan,True,True,True,False,True,False,True,122
 Citroën,73456,120,diesel,brown,sedan,True,True,False,False,True,False,True,132
-Audi,5578,195,diesel,grey,sedan,True,True,True,False,False,True,True,250
 Audi,171542,160,diesel,black,sedan,False,True,False,False,True,False,True,137
-Renault,47317,230,diesel,black,sedan,True,True,True,True,False,False,True,211
 Audi,161547,190,diesel,black,sedan,False,True,True,False,True,False,True,143
 Peugeot,122576,100,diesel,blue,sedan,False,True,False,False,False,False,True,107
 Citroën,58264,135,diesel,black,sedan,False,True,False,True,False,False,True,140
@@ -2356,7 +2280,6 @@ Audi,108675,230,diesel,grey,sedan,False,True,False,False,False,True,True,175
 Audi,167128,112,diesel,blue,sedan,False,True,True,False,True,False,True,126
 Citroën,141751,120,diesel,brown,sedan,False,True,False,False,True,False,True,119
 Renault,179134,120,diesel,grey,sedan,True,True,True,False,True,False,True,114
-Citroën,226813,100,diesel,silver,sedan,False,False,True,False,True,False,True,32
 Renault,154617,120,diesel,white,sedan,True,True,False,False,True,False,True,152
 Citroën,60959,120,diesel,grey,sedan,False,False,False,False,False,False,False,120
 Citroën,149173,105,diesel,black,sedan,False,True,False,False,True,False,True,116
@@ -2379,7 +2302,6 @@ Renault,155824,120,diesel,grey,sedan,True,True,False,False,False,False,True,114
 Citroën,172734,110,petrol,blue,sedan,True,True,True,False,False,False,True,62
 Peugeot,49664,100,diesel,white,sedan,True,False,False,False,False,False,True,103
 Audi,112236,230,diesel,black,sedan,True,True,True,False,True,True,True,162
-Audi,185693,120,diesel,silver,sedan,True,False,False,False,False,False,True,49
 Renault,131102,135,diesel,silver,sedan,True,True,False,False,True,False,True,137
 Citroën,155526,120,diesel,grey,sedan,False,False,False,False,False,False,False,123
 Renault,124629,135,diesel,white,sedan,True,False,False,False,False,False,True,120
@@ -2412,7 +2334,6 @@ Mercedes,97677,105,diesel,white,sedan,False,False,False,False,False,False,True,1
 Renault,137936,135,diesel,grey,sedan,True,True,True,False,True,True,True,132
 Renault,92395,85,diesel,black,sedan,False,False,False,False,False,False,False,117
 Audi,98410,160,diesel,blue,sedan,False,True,False,False,True,True,True,171
-Citroën,268906,100,diesel,silver,sedan,False,False,False,False,False,False,True,26
 Renault,181638,135,petrol,blue,sedan,False,True,False,False,False,False,True,117
 Renault,116727,135,diesel,black,sedan,False,True,False,False,True,False,True,133
 Renault,87191,135,diesel,black,sedan,True,True,False,False,True,False,True,147
@@ -2429,7 +2350,6 @@ Audi,149132,135,diesel,white,sedan,False,True,False,False,True,True,True,132
 Citroën,201690,120,diesel,white,sedan,False,True,False,False,True,False,True,124
 Citroën,92242,120,diesel,brown,sedan,True,True,False,False,True,False,True,118
 Peugeot,100868,135,diesel,black,sedan,False,True,False,False,True,True,True,129
-Renault,146951,66,petrol,white,sedan,False,False,False,False,False,False,False,36
 Citroën,91131,135,diesel,grey,sedan,False,False,False,False,False,False,False,111
 Citroën,129057,120,diesel,black,sedan,True,True,False,False,False,False,True,87
 Mercedes,171131,105,diesel,grey,sedan,False,True,False,False,False,True,True,143
@@ -2498,7 +2418,6 @@ Peugeot,147210,100,diesel,black,sedan,False,True,False,False,False,True,True,124
 Peugeot,119242,105,diesel,brown,sedan,True,False,False,False,False,False,True,107
 Citroën,106434,119,diesel,black,sedan,True,True,False,False,True,False,True,103
 Audi,159718,160,diesel,grey,sedan,True,True,False,True,True,False,True,141
-Citroën,253534,120,diesel,black,sedan,False,True,False,False,False,False,True,59
 Audi,200019,150,diesel,black,sedan,False,True,False,False,False,False,True,120
 Citroën,202051,120,diesel,brown,sedan,True,True,False,False,False,False,True,111
 Renault,107777,135,diesel,grey,sedan,True,True,False,False,True,True,True,142
@@ -2577,8 +2496,6 @@ Citroën,137483,120,diesel,black,sedan,True,True,False,False,False,False,True,11
 Renault,152547,135,diesel,brown,sedan,False,True,False,False,True,False,True,143
 Renault,173827,120,diesel,black,sedan,True,True,False,False,False,False,True,79
 Renault,129180,135,diesel,grey,sedan,True,True,False,False,True,False,True,139
-Peugeot,186677,105,diesel,blue,sedan,False,False,False,False,False,False,True,56
-Renault,-64,230,diesel,black,sedan,True,True,False,True,False,False,True,274
 Renault,168104,85,diesel,blue,sedan,False,True,False,False,True,False,True,112
 Audi,142525,105,diesel,blue,sedan,False,True,False,False,True,False,True,136
 Renault,42191,135,diesel,grey,sedan,True,True,False,False,True,False,True,146
@@ -2617,7 +2534,6 @@ Renault,119364,120,diesel,grey,sedan,True,True,False,False,False,False,True,112
 Renault,174716,120,diesel,black,sedan,True,True,False,False,False,False,True,81
 Renault,146162,120,diesel,grey,sedan,True,True,True,False,True,False,True,139
 Renault,107325,85,diesel,white,sedan,False,True,False,False,False,False,True,116
-Peugeot,195356,85,diesel,silver,sedan,True,False,False,False,False,False,True,51
 Renault,208035,120,petrol,grey,sedan,True,True,False,False,True,False,True,75
 Audi,82233,100,diesel,black,sedan,True,True,False,False,True,False,True,143
 Audi,190649,190,diesel,brown,sedan,True,True,False,True,True,False,True,135
@@ -2680,12 +2596,10 @@ Audi,120191,190,diesel,white,sedan,False,True,False,True,True,True,True,145
 Renault,135453,110,diesel,blue,sedan,True,True,False,False,False,False,True,85
 Renault,41847,135,diesel,black,sedan,True,True,False,False,True,True,True,158
 Audi,153074,160,diesel,black,sedan,False,True,False,False,False,False,True,120
-Audi,184808,120,diesel,silver,sedan,True,False,False,False,False,False,True,49
 Renault,217788,120,diesel,silver,sedan,True,True,False,False,False,False,True,97
 Renault,153657,85,diesel,brown,sedan,False,True,False,False,False,False,True,97
 Renault,202696,130,diesel,black,sedan,False,True,False,False,True,False,True,99
 Citroën,185354,120,diesel,black,sedan,True,True,False,False,False,False,True,111
-Peugeot,98097,85,petrol,blue,sedan,True,False,False,False,False,False,True,20
 Audi,129698,160,diesel,grey,sedan,True,True,False,True,True,True,True,146
 Renault,222122,120,diesel,silver,sedan,True,True,False,False,False,False,True,70
 Peugeot,170946,100,diesel,brown,sedan,False,True,False,False,False,False,True,107
@@ -2699,7 +2613,6 @@ Audi,161735,160,diesel,black,sedan,False,True,False,False,True,False,True,141
 Audi,132378,155,diesel,grey,sedan,True,True,False,False,False,False,True,125
 Mercedes,170733,105,diesel,grey,sedan,False,True,False,False,False,True,True,127
 Renault,93090,120,diesel,grey,sedan,True,True,False,False,True,True,True,132
-Audi,178112,170,petrol,silver,sedan,True,True,True,False,False,False,True,37
 Peugeot,143533,100,diesel,brown,sedan,True,True,False,False,True,True,True,112
 Audi,153535,190,diesel,black,sedan,True,True,True,False,True,True,True,155
 Audi,56496,190,diesel,grey,sedan,True,True,True,True,True,False,True,177
@@ -2883,13 +2796,11 @@ Renault,62090,120,diesel,grey,sedan,True,True,True,False,False,False,True,145
 Renault,107158,120,diesel,grey,sedan,True,True,True,False,True,False,True,135
 Renault,192385,120,diesel,black,sedan,True,True,False,False,True,False,True,134
 Renault,177762,135,diesel,black,sedan,True,True,False,False,True,True,True,136
-BMW,118467,120,petrol,silver,sedan,False,False,False,False,False,False,False,28
 Citroën,108749,120,diesel,white,sedan,False,True,False,False,False,False,False,118
 Audi,191622,230,diesel,grey,sedan,True,True,False,False,True,True,True,141
 Citroën,117770,120,diesel,black,sedan,False,True,False,False,False,False,True,115
 Citroën,146788,120,diesel,silver,sedan,True,True,False,False,False,True,True,112
 Renault,127812,140,diesel,black,sedan,True,True,False,False,True,True,True,144
-Renault,52140,230,diesel,blue,sedan,True,True,True,False,False,True,False,217
 Peugeot,178433,105,diesel,black,sedan,True,True,False,False,False,False,True,111
 Renault,174745,135,diesel,grey,sedan,False,True,False,False,False,False,True,141
 Audi,164923,160,diesel,black,sedan,True,True,True,False,True,True,True,135
@@ -2956,7 +2867,6 @@ Audi,98521,224,petrol,black,sedan,True,True,True,False,True,False,True,118
 Peugeot,175400,100,diesel,black,sedan,False,True,False,False,False,True,True,106
 Peugeot,126126,100,diesel,blue,sedan,True,True,False,False,False,False,True,113
 Audi,103395,100,diesel,grey,sedan,True,True,False,False,True,False,True,123
-Citroën,261692,110,petrol,black,sedan,False,False,True,False,True,True,True,26
 Peugeot,187253,105,diesel,brown,sedan,True,True,False,False,False,True,True,111
 Peugeot,165821,100,diesel,black,sedan,True,True,False,False,False,False,True,85
 Citroën,135785,135,diesel,white,sedan,False,True,False,False,True,False,True,124
@@ -2976,7 +2886,6 @@ Renault,155699,120,diesel,black,sedan,True,False,False,False,False,False,True,12
 Renault,146562,135,diesel,black,sedan,True,True,False,False,True,True,True,130
 Citroën,104733,120,diesel,black,sedan,True,True,False,False,False,False,True,114
 Renault,124822,120,diesel,black,sedan,True,True,False,False,True,False,True,146
-Audi,266641,85,diesel,black,sedan,True,False,False,False,False,False,True,28
 Renault,133085,120,diesel,grey,sedan,True,True,False,False,True,True,True,126
 Renault,193587,120,diesel,grey,sedan,True,True,False,False,False,False,True,116
 Peugeot,98722,100,diesel,black,sedan,True,True,False,False,False,False,True,112
@@ -2989,9 +2898,7 @@ Audi,99768,160,diesel,black,sedan,True,True,True,True,True,True,True,173
 Peugeot,180471,90,diesel,grey,sedan,False,False,False,False,False,False,True,70
 Renault,138240,120,diesel,blue,sedan,False,True,False,False,False,False,True,120
 Citroën,178308,120,diesel,blue,sedan,False,True,False,False,True,False,True,111
-Citroën,201537,120,diesel,silver,sedan,False,True,True,False,False,False,True,60
 Renault,222415,135,diesel,blue,sedan,True,True,True,False,True,False,True,122
-Audi,183384,141,petrol,blue,sedan,True,False,True,False,False,False,True,37
 Renault,154548,85,diesel,black,sedan,True,True,False,False,False,False,True,109
 Peugeot,75465,100,diesel,black,sedan,False,False,False,False,False,False,True,117
 Peugeot,136993,100,diesel,black,sedan,False,True,False,False,False,True,True,114
@@ -3017,7 +2924,6 @@ Peugeot,157505,100,diesel,black,sedan,False,True,False,False,False,False,True,10
 Peugeot,202923,100,diesel,grey,sedan,True,True,False,False,False,False,True,85
 Renault,147930,120,diesel,grey,sedan,True,True,False,False,False,False,True,120
 Renault,59580,120,diesel,silver,sedan,True,True,True,False,True,False,True,144
-Citroën,188492,110,diesel,silver,sedan,False,False,False,False,False,False,True,33
 Peugeot,193434,90,diesel,black,sedan,False,False,True,False,False,False,True,71
 Audi,272311,150,diesel,grey,sedan,True,True,True,False,True,False,True,111
 Audi,179459,150,diesel,black,sedan,True,True,True,False,True,True,True,117
@@ -3028,7 +2934,6 @@ Citroën,114102,120,diesel,silver,sedan,False,True,False,False,False,False,True,
 Audi,128023,155,diesel,grey,sedan,True,True,False,False,True,False,True,139
 Audi,219120,150,diesel,black,sedan,True,True,True,False,True,True,True,123
 Peugeot,54100,100,diesel,white,sedan,False,True,False,False,True,True,True,137
-Renault,184233,77,petrol,grey,sedan,False,False,False,False,False,False,True,20
 Audi,102057,190,diesel,blue,sedan,True,True,False,True,True,False,True,129
 Peugeot,142967,100,diesel,black,sedan,False,True,False,False,False,False,True,102
 Peugeot,150911,100,diesel,black,sedan,False,False,False,False,True,False,True,72
@@ -3074,7 +2979,6 @@ Renault,77077,135,diesel,silver,sedan,True,True,True,True,False,False,True,167
 Renault,97113,120,diesel,blue,sedan,True,True,False,False,False,False,True,126
 Peugeot,159923,100,diesel,black,sedan,False,True,False,False,False,False,True,109
 Renault,180076,85,diesel,black,sedan,False,True,False,False,False,False,True,99
-Citroën,297311,100,diesel,silver,sedan,True,False,False,False,False,True,True,32
 Citroën,49683,120,diesel,blue,sedan,True,False,False,False,False,False,True,122
 Citroën,217048,110,diesel,grey,sedan,False,False,False,False,False,False,True,69
 Peugeot,196932,105,diesel,grey,sedan,False,True,False,False,True,False,True,99
@@ -3157,7 +3061,6 @@ Renault,134412,85,diesel,grey,sedan,False,True,False,False,True,False,True,111
 Renault,125082,85,diesel,blue,sedan,False,False,False,False,False,False,True,106
 Citroën,174940,135,diesel,black,sedan,True,True,False,False,True,False,True,113
 Renault,143356,85,diesel,blue,sedan,False,False,False,False,False,False,True,103
-Audi,10480,195,diesel,grey,sedan,True,True,True,True,False,True,True,227
 Peugeot,183334,100,diesel,grey,sedan,True,False,False,False,False,True,True,107
 Audi,180280,110,diesel,brown,sedan,False,True,False,False,True,False,True,130
 Citroën,123424,120,diesel,blue,sedan,True,True,False,False,False,False,True,122
@@ -3193,10 +3096,8 @@ BMW,184534,85,diesel,grey,subcompact,False,False,False,False,False,False,True,88
 BMW,177876,85,diesel,white,subcompact,False,False,False,False,False,False,True,88
 BMW,169319,85,diesel,blue,subcompact,False,True,False,False,False,False,True,96
 BMW,193550,85,diesel,grey,subcompact,True,True,False,False,False,False,True,96
-BMW,162439,85,diesel,blue,subcompact,False,False,False,False,False,False,True,60
 BMW,156974,85,diesel,black,subcompact,False,False,False,False,False,False,True,71
 BMW,233644,85,diesel,black,subcompact,False,False,False,False,False,False,True,70
-BMW,123064,85,petrol,black,subcompact,False,False,False,False,False,False,True,49
 BMW,123286,85,diesel,blue,subcompact,False,False,False,False,False,False,True,92
 Citroën,224562,100,diesel,black,subcompact,False,False,False,False,False,False,True,62
 BMW,125496,85,diesel,white,subcompact,True,True,False,False,False,False,True,107
@@ -3205,7 +3106,6 @@ BMW,96570,85,diesel,brown,subcompact,False,False,False,False,False,False,True,98
 BMW,55219,85,diesel,grey,subcompact,False,True,False,False,False,False,True,120
 BMW,145559,85,diesel,black,subcompact,False,False,False,False,False,False,True,99
 Citroën,135549,105,diesel,black,subcompact,False,False,False,False,False,False,True,87
-BMW,103856,85,diesel,black,subcompact,False,False,False,False,False,False,True,60
 BMW,169746,85,diesel,black,subcompact,True,True,False,False,False,True,True,96
 BMW,42851,85,diesel,black,subcompact,False,False,False,False,False,False,True,129
 BMW,116708,85,diesel,black,subcompact,False,True,False,False,True,False,True,95
@@ -3218,15 +3118,11 @@ BMW,121863,85,diesel,blue,subcompact,False,True,False,False,False,False,True,97
 BMW,94380,85,diesel,black,subcompact,False,False,False,False,False,False,True,95
 Volkswagen,75251,70,diesel,black,subcompact,False,False,False,False,False,False,True,124
 BMW,121130,85,diesel,blue,subcompact,False,False,False,False,False,True,True,100
-BMW,156610,85,petrol,grey,subcompact,False,False,True,False,False,True,True,60
 BMW,91813,85,diesel,grey,subcompact,False,False,False,False,False,False,True,97
-Citroën,235114,90,diesel,black,subcompact,False,False,False,False,False,False,True,57
 Citroën,43911,105,diesel,blue,subcompact,False,False,False,False,True,False,True,109
-Peugeot,212836,85,diesel,silver,subcompact,False,False,False,False,False,False,True,37
 BMW,113052,85,diesel,black,subcompact,False,False,False,False,False,False,True,81
 BMW,111140,85,diesel,white,subcompact,False,False,False,False,False,False,False,84
 BMW,138802,85,diesel,grey,subcompact,False,True,False,False,True,True,True,125
-Citroën,166267,105,diesel,black,subcompact,False,False,False,False,False,False,True,57
 BMW,165988,85,diesel,silver,subcompact,True,True,False,False,False,False,True,97
 Citroën,94445,105,diesel,blue,subcompact,True,True,False,False,False,False,True,115
 BMW,155338,85,diesel,black,subcompact,False,False,False,False,False,False,True,96
@@ -3253,7 +3149,6 @@ BMW,2399,85,diesel,white,subcompact,False,False,False,False,False,False,True,132
 BMW,122426,85,diesel,black,subcompact,False,True,False,False,False,False,True,103
 BMW,181214,85,diesel,white,subcompact,False,True,False,False,False,False,True,96
 BMW,143941,85,diesel,white,subcompact,False,False,False,False,False,False,True,99
-Citroën,269389,90,diesel,grey,subcompact,False,False,False,False,False,False,True,57
 BMW,190627,85,diesel,black,subcompact,False,True,False,False,False,False,True,94
 BMW,43586,85,diesel,white,subcompact,False,False,False,False,True,True,True,111
 BMW,164134,85,diesel,blue,subcompact,False,True,False,False,False,False,True,101
@@ -3262,7 +3157,6 @@ BMW,95873,85,diesel,blue,subcompact,False,False,False,False,True,True,True,102
 BMW,223646,85,diesel,black,subcompact,False,False,False,False,False,False,True,72
 Volkswagen,75801,70,diesel,black,subcompact,False,False,False,False,False,False,True,124
 BMW,146359,85,diesel,blue,subcompact,False,False,False,False,False,False,True,89
-Citroën,270291,90,diesel,grey,subcompact,False,False,False,False,False,False,True,57
 BMW,134364,85,diesel,grey,subcompact,True,False,False,False,False,False,True,84
 Citroën,82374,105,diesel,blue,subcompact,True,True,True,False,True,False,True,111
 Volkswagen,25703,70,diesel,grey,subcompact,False,True,False,False,False,False,True,91
@@ -3273,7 +3167,6 @@ BMW,173110,85,diesel,blue,subcompact,False,True,False,False,False,False,True,94
 BMW,144607,85,diesel,blue,subcompact,False,False,False,False,False,False,True,91
 BMW,20297,85,diesel,black,subcompact,False,True,False,False,False,False,True,130
 Citroën,44586,105,diesel,blue,subcompact,False,False,False,False,True,False,True,114
-Peugeot,145215,85,diesel,silver,subcompact,False,False,False,False,False,False,True,50
 BMW,108038,85,diesel,black,subcompact,False,False,False,False,False,False,True,99
 BMW,137773,85,diesel,black,subcompact,True,True,False,False,True,False,True,104
 Citroën,181781,100,diesel,grey,subcompact,True,True,True,False,False,True,True,97
@@ -3298,14 +3191,11 @@ Peugeot,121721,135,diesel,blue,subcompact,True,True,True,False,True,False,True,1
 Peugeot,155752,135,diesel,silver,subcompact,True,False,False,False,False,False,True,106
 Citroën,169560,125,petrol,grey,subcompact,False,True,False,False,False,True,True,101
 BMW,132937,85,diesel,black,subcompact,False,True,False,False,False,False,True,96
-Citroën,243080,110,diesel,grey,subcompact,False,False,True,False,False,True,True,33
 Volkswagen,93921,70,diesel,white,subcompact,False,False,True,False,True,False,True,106
-Mitsubishi,14052,160,diesel,grey,suv,True,True,True,False,False,False,True,217
 BMW,130399,100,diesel,brown,suv,True,True,True,False,True,False,True,135
 Nissan,54157,105,diesel,white,suv,True,True,False,False,False,False,True,114
 Nissan,121114,135,diesel,grey,suv,False,False,False,False,False,False,False,114
 BMW,118846,135,diesel,black,suv,False,True,False,False,False,False,True,137
-Nissan,167417,105,diesel,white,suv,False,False,False,False,False,False,False,60
 Nissan,61354,105,diesel,blue,suv,False,False,False,False,False,False,False,130
 Nissan,93308,135,diesel,white,suv,False,False,False,False,False,False,False,118
 Nissan,191906,105,diesel,silver,suv,False,False,False,True,False,False,True,97
@@ -3334,7 +3224,6 @@ Nissan,55307,105,diesel,blue,suv,False,False,False,False,False,False,False,99
 Mitsubishi,165461,190,diesel,grey,suv,False,False,False,False,False,False,False,175
 BMW,183815,140,diesel,black,suv,False,False,False,False,False,False,False,135
 Nissan,71894,105,diesel,grey,suv,False,False,False,False,False,False,False,111
-Nissan,146673,105,diesel,blue,suv,False,False,False,False,False,False,False,28
 BMW,141768,135,diesel,white,suv,False,False,False,False,False,False,False,128
 Nissan,68086,105,diesel,blue,suv,False,False,False,False,False,False,False,115
 SEAT,111237,190,diesel,silver,suv,False,False,False,False,False,False,False,162
@@ -3353,11 +3242,8 @@ Nissan,113479,105,diesel,white,suv,False,True,False,False,False,False,True,111
 Nissan,113649,105,diesel,white,suv,False,True,False,False,False,False,True,111
 Nissan,153960,135,diesel,grey,suv,False,False,False,False,False,False,False,120
 BMW,98151,135,diesel,silver,suv,False,False,False,False,False,False,False,130
-BMW,110669,140,diesel,white,suv,False,False,False,False,False,False,False,28
 Nissan,161836,105,diesel,blue,suv,False,True,False,False,False,False,True,126
-BMW,110602,140,diesel,white,suv,False,False,False,False,False,False,False,28
 Nissan,113533,105,diesel,white,suv,False,True,False,False,False,False,True,114
-Nissan,153646,105,diesel,black,suv,False,False,False,False,False,False,False,28
 BMW,99160,105,diesel,white,suv,False,False,False,False,False,False,False,133
 Nissan,89625,105,diesel,grey,suv,False,True,False,False,False,False,False,106
 Nissan,124980,105,diesel,white,suv,False,False,False,False,False,False,True,119
@@ -3373,7 +3259,6 @@ BMW,181874,190,diesel,black,suv,True,True,True,True,True,True,True,147
 BMW,95391,135,diesel,white,suv,True,True,False,True,True,True,True,166
 Nissan,104165,135,diesel,white,suv,False,False,False,False,False,False,False,110
 Nissan,143737,135,petrol,black,suv,False,False,False,False,False,False,False,118
-Nissan,83119,85,diesel,grey,suv,False,True,False,False,False,False,True,24
 Nissan,161610,100,diesel,blue,suv,True,False,True,False,False,True,True,109
 BMW,131429,135,diesel,silver,suv,True,True,False,True,True,False,True,130
 BMW,75605,110,diesel,black,suv,False,True,False,False,False,False,True,155
@@ -3433,7 +3318,6 @@ Nissan,90482,135,diesel,black,suv,False,True,False,True,True,True,True,126
 BMW,179888,120,diesel,black,suv,True,False,True,True,True,False,True,131
 Mitsubishi,114150,190,diesel,grey,suv,True,True,True,True,True,True,True,204
 Nissan,119493,85,diesel,grey,suv,False,True,False,False,False,False,True,107
-Nissan,170742,135,diesel,blue,suv,False,False,False,False,False,False,True,28
 Mitsubishi,272231,155,diesel,grey,suv,False,True,True,True,True,False,True,133
 Mitsubishi,134306,160,diesel,black,suv,False,True,False,False,False,False,True,184
 Mitsubishi,126147,173,diesel,black,suv,True,True,True,True,True,True,True,133
@@ -3470,7 +3354,6 @@ BMW,124417,100,diesel,brown,suv,True,True,False,False,True,False,True,125
 Mitsubishi,78156,190,diesel,black,suv,True,True,False,True,True,False,True,200
 Nissan,145242,120,diesel,brown,suv,True,True,False,False,False,False,True,110
 Mitsubishi,132652,173,diesel,blue,suv,True,True,False,True,True,True,True,141
-Mitsubishi,64729,190,diesel,grey,suv,True,True,True,True,False,True,True,220
 Mitsubishi,76677,190,diesel,black,suv,True,True,False,True,True,False,True,175
 Mitsubishi,140179,180,diesel,white,suv,True,True,True,True,True,False,True,141
 Nissan,176457,85,diesel,blue,suv,True,True,False,False,False,False,True,100
@@ -3490,7 +3373,6 @@ Mitsubishi,706,155,diesel,black,suv,True,True,False,True,True,True,True,204
 BMW,164621,110,diesel,white,suv,True,True,False,False,True,False,True,135
 Nissan,135373,105,diesel,black,suv,False,False,False,False,False,False,True,104
 BMW,182828,120,diesel,grey,suv,True,True,False,True,True,False,True,125
-Nissan,140752,105,diesel,black,suv,False,False,False,False,False,False,False,28
 BMW,180007,110,diesel,brown,suv,True,True,False,True,False,False,True,84
 Nissan,122922,120,diesel,grey,suv,False,True,False,False,False,False,True,112
 BMW,49808,140,diesel,white,suv,True,True,True,True,True,True,True,193
@@ -3509,7 +3391,6 @@ Mitsubishi,114553,180,diesel,brown,suv,True,True,False,True,True,False,True,160
 Nissan,170838,135,diesel,silver,suv,True,True,False,False,True,False,True,114
 Mitsubishi,69324,190,diesel,black,suv,True,True,True,True,True,False,True,194
 BMW,152889,140,diesel,white,suv,False,False,False,False,False,False,False,151
-Mitsubishi,40388,160,diesel,black,suv,True,True,False,True,True,True,True,210
 Nissan,160479,105,diesel,black,suv,False,True,True,False,False,False,True,106
 Nissan,203030,120,diesel,black,suv,True,True,False,False,False,False,True,108
 Nissan,180263,135,diesel,white,suv,True,True,True,True,True,True,True,140
@@ -3607,7 +3488,6 @@ BMW,188713,190,diesel,silver,suv,True,True,True,True,True,True,True,152
 Nissan,165433,160,diesel,black,suv,False,True,False,True,False,False,True,135
 BMW,54612,135,diesel,black,suv,True,True,False,True,True,True,True,155
 BMW,146109,120,diesel,grey,suv,True,True,False,True,True,True,True,143
-Toyota,98050,230,diesel,black,suv,True,True,False,True,False,True,True,223
 Nissan,88875,100,diesel,white,suv,True,True,False,False,False,False,True,115
 Nissan,58602,85,diesel,white,suv,False,True,False,False,False,False,True,115
 Mitsubishi,104096,190,diesel,black,suv,True,True,False,False,False,False,True,177
@@ -3632,7 +3512,6 @@ BMW,83814,140,diesel,black,suv,True,True,False,True,True,False,True,165
 Nissan,96056,105,diesel,black,suv,False,False,False,False,False,False,True,126
 SEAT,39061,140,diesel,black,suv,True,True,False,True,False,False,True,193
 Nissan,136760,120,diesel,grey,suv,False,True,False,False,False,False,True,116
-SEAT,56981,230,diesel,black,suv,True,True,True,True,False,True,True,218
 Nissan,133577,120,diesel,black,suv,True,True,True,False,True,False,True,97
 Mitsubishi,203537,190,diesel,black,suv,True,True,True,True,True,False,True,189
 Mitsubishi,112145,190,diesel,white,suv,True,True,True,True,False,True,True,197
@@ -3642,20 +3521,17 @@ BMW,69362,135,diesel,grey,suv,True,True,False,True,True,True,True,154
 Mitsubishi,158203,210,diesel,black,suv,True,True,False,False,True,False,True,126
 Nissan,101223,105,diesel,brown,suv,False,True,False,True,True,False,True,126
 Nissan,112681,100,diesel,black,suv,False,True,False,False,False,False,True,109
-Mitsubishi,68178,230,diesel,black,suv,True,True,True,True,False,False,True,217
 BMW,74216,140,diesel,black,suv,False,True,False,True,False,False,True,160
 Mitsubishi,96539,160,diesel,brown,suv,True,True,False,True,True,False,True,181
 BMW,143327,110,diesel,black,suv,False,False,True,False,False,False,True,131
 BMW,122008,140,diesel,grey,suv,True,True,False,False,False,False,False,160
 BMW,119337,190,diesel,blue,suv,True,True,True,True,True,False,True,152
 Nissan,162987,100,diesel,grey,suv,False,True,False,False,False,False,True,116
-Toyota,25931,190,diesel,white,suv,True,True,False,False,False,False,True,251
 Mitsubishi,34611,190,diesel,blue,suv,True,True,True,False,True,False,True,179
 BMW,129915,140,diesel,grey,suv,True,True,False,True,True,True,True,161
 Mitsubishi,62957,190,diesel,brown,suv,True,True,True,True,True,True,True,205
 BMW,192095,120,diesel,black,suv,True,True,False,True,False,False,True,122
 Mitsubishi,58450,190,diesel,grey,suv,True,True,True,True,True,False,True,188
-Mitsubishi,30689,190,diesel,black,suv,True,True,True,True,True,True,True,217
 SEAT,40030,140,diesel,white,suv,False,False,False,False,False,False,False,187
 BMW,186120,135,diesel,black,suv,True,True,True,True,True,False,True,132
 Mitsubishi,117507,190,diesel,black,suv,True,True,True,True,True,False,True,186
@@ -3670,7 +3546,6 @@ BMW,112261,120,diesel,black,suv,True,True,False,True,False,False,True,128
 BMW,195353,135,petrol,blue,suv,False,True,False,False,True,False,False,114
 Mitsubishi,179375,155,diesel,black,suv,True,True,False,True,False,False,True,122
 BMW,207970,230,diesel,grey,suv,False,True,True,True,True,True,True,154
-Subaru,46041,230,diesel,grey,suv,True,True,True,False,True,False,True,236
 BMW,138341,120,diesel,black,suv,True,True,False,True,False,False,True,120
 BMW,270703,110,diesel,silver,suv,True,True,False,True,False,False,True,70
 Mitsubishi,128378,155,diesel,black,suv,True,True,True,True,True,False,True,152
@@ -3679,7 +3554,6 @@ SEAT,65581,140,diesel,blue,suv,True,True,False,True,True,False,True,173
 BMW,164843,135,diesel,white,suv,True,True,False,False,False,False,True,128
 Nissan,126450,105,diesel,black,suv,True,False,False,False,False,False,True,109
 BMW,138197,120,diesel,grey,suv,False,False,False,True,False,False,True,123
-Subaru,42318,230,diesel,grey,suv,True,True,True,True,False,False,True,235
 Nissan,149348,105,diesel,blue,suv,True,True,True,True,True,False,True,119
 SEAT,103064,140,diesel,grey,suv,True,True,False,False,False,False,True,175
 BMW,204115,230,diesel,white,suv,True,True,False,True,True,True,True,162
@@ -3689,7 +3563,6 @@ Mitsubishi,92488,190,diesel,grey,suv,False,True,False,False,False,True,True,180
 Mitsubishi,157796,210,diesel,black,suv,True,True,False,False,True,False,True,127
 BMW,98390,100,diesel,grey,suv,False,True,False,False,False,False,True,113
 BMW,148521,105,diesel,grey,suv,False,True,False,False,True,False,True,123
-Mitsubishi,29045,230,diesel,silver,suv,False,False,False,False,False,False,False,210
 Nissan,114471,100,diesel,black,suv,True,True,False,False,False,False,True,110
 BMW,99233,190,diesel,grey,suv,True,False,False,True,False,False,True,130
 Mitsubishi,113216,230,diesel,silver,suv,True,True,False,True,True,True,True,187
@@ -3731,7 +3604,6 @@ BMW,87432,135,diesel,silver,suv,False,False,False,False,False,False,False,146
 BMW,85603,140,diesel,grey,suv,True,True,True,False,False,False,False,164
 Nissan,53361,105,diesel,white,suv,False,True,False,False,False,False,True,114
 Nissan,100488,105,diesel,white,suv,False,True,False,True,False,True,True,127
-Mitsubishi,71743,190,diesel,black,suv,True,True,False,True,True,True,True,210
 Mitsubishi,193244,155,diesel,black,suv,False,True,True,True,True,False,True,127
 Mitsubishi,85526,190,diesel,white,suv,True,True,False,True,False,False,True,203
 Mitsubishi,54433,190,diesel,black,suv,False,True,True,True,True,True,True,198
@@ -3766,9 +3638,7 @@ Nissan,171677,100,diesel,black,suv,True,True,False,False,False,False,True,117
 Mitsubishi,167489,180,diesel,black,suv,True,True,True,True,True,True,True,147
 BMW,52716,120,diesel,grey,suv,True,True,False,True,False,False,True,153
 Nissan,145455,105,diesel,black,suv,False,False,False,True,False,True,True,109
-Mitsubishi,59883,190,diesel,brown,suv,True,True,True,True,True,False,True,216
 Nissan,191958,100,diesel,grey,suv,False,True,False,False,False,False,True,101
-Subaru,47417,230,diesel,black,suv,True,True,True,True,False,True,True,244
 BMW,182391,190,diesel,black,suv,True,True,True,True,True,False,True,134
 BMW,146529,110,diesel,white,suv,True,True,False,False,False,False,True,136
 Nissan,80061,135,diesel,grey,suv,True,True,False,False,False,False,False,130
@@ -3845,7 +3715,6 @@ BMW,123577,140,diesel,white,suv,False,True,False,False,False,False,True,147
 Mitsubishi,167199,180,diesel,white,suv,True,True,True,True,True,True,True,143
 Mitsubishi,104680,190,diesel,blue,suv,True,True,True,True,True,False,True,189
 Nissan,144341,100,diesel,blue,suv,True,False,False,False,False,False,True,98
-Toyota,38919,190,diesel,black,suv,True,True,False,False,False,False,True,224
 Nissan,87335,105,diesel,black,suv,False,True,False,True,True,False,True,128
 Nissan,82406,100,diesel,black,suv,True,True,True,False,False,False,True,119
 BMW,60529,135,petrol,black,suv,True,True,False,False,False,False,False,179
@@ -3881,7 +3750,6 @@ Nissan,175799,120,diesel,white,suv,True,True,False,False,False,False,True,112
 BMW,145047,230,diesel,blue,suv,True,True,True,True,True,True,True,149
 BMW,99278,100,diesel,brown,suv,True,True,False,False,True,False,True,128
 Nissan,168996,100,diesel,brown,suv,False,False,False,False,False,False,True,76
-BMW,79685,190,diesel,black,suv,False,False,False,False,False,False,False,10
 BMW,75616,110,diesel,black,suv,True,True,False,False,False,False,True,146
 Mitsubishi,55366,190,diesel,grey,suv,True,True,False,True,True,False,True,185
 Nissan,194345,105,diesel,black,suv,True,False,False,True,False,False,True,113
@@ -3895,7 +3763,6 @@ Nissan,110778,150,diesel,black,suv,True,True,False,True,True,True,False,114
 BMW,163203,135,diesel,brown,suv,True,True,False,True,False,False,True,120
 BMW,192167,100,diesel,silver,suv,True,True,True,False,False,False,True,117
 Nissan,80489,135,diesel,grey,suv,True,True,False,False,False,False,False,128
-Mitsubishi,612,183,diesel,black,suv,True,True,False,False,False,False,True,222
 BMW,176076,190,diesel,white,suv,True,True,False,True,True,True,True,160
 BMW,163674,120,diesel,silver,suv,True,True,False,True,True,False,True,132
 Subaru,125660,180,diesel,white,suv,True,True,True,True,True,False,True,162
@@ -3922,7 +3789,6 @@ Nissan,115466,100,diesel,black,suv,True,True,False,False,False,False,True,107
 BMW,198866,230,diesel,silver,suv,True,True,False,True,True,True,True,135
 Mitsubishi,203919,173,diesel,black,suv,True,True,True,True,True,False,True,103
 BMW,99768,135,diesel,grey,suv,False,True,False,True,False,False,True,133
-Nissan,130634,100,diesel,black,suv,True,False,False,False,False,False,True,59
 Nissan,127905,120,diesel,white,suv,False,False,False,False,False,False,False,110
 Mitsubishi,181159,225,diesel,brown,suv,True,True,False,True,True,False,True,130
 BMW,108222,135,diesel,white,suv,False,True,False,True,True,False,True,152
@@ -3958,13 +3824,11 @@ Nissan,96624,105,diesel,grey,suv,False,False,False,True,False,False,True,112
 Nissan,57420,85,diesel,brown,suv,True,False,False,False,False,False,True,131
 Mitsubishi,171250,160,diesel,black,suv,True,True,False,True,True,False,True,176
 Nissan,116298,135,diesel,grey,suv,True,True,True,True,True,False,True,133
-Mitsubishi,49874,190,diesel,white,suv,True,True,False,True,True,False,True,215
 BMW,178599,105,diesel,black,suv,False,True,False,False,False,False,True,112
 BMW,117774,120,diesel,brown,suv,False,False,False,True,False,False,True,120
 Mitsubishi,160391,155,diesel,blue,suv,True,True,True,True,True,True,True,127
 BMW,160822,105,diesel,black,suv,True,False,False,True,False,False,True,120
 SEAT,63543,140,diesel,black,suv,True,True,False,True,True,True,True,181
-Subaru,110556,190,diesel,black,suv,True,True,True,True,False,True,True,224
 Mitsubishi,100207,190,diesel,white,suv,True,True,True,True,True,False,True,201
 Nissan,188793,120,diesel,black,suv,True,True,True,False,False,False,True,105
 Mitsubishi,249546,160,diesel,grey,suv,False,True,False,True,True,False,True,71
@@ -3996,7 +3860,6 @@ Mitsubishi,97426,190,diesel,black,suv,True,True,True,True,False,True,True,194
 Mitsubishi,168055,190,diesel,black,suv,True,True,False,True,True,False,True,181
 Mitsubishi,207541,173,diesel,silver,suv,True,True,False,False,True,False,True,116
 BMW,174862,110,diesel,white,suv,True,True,False,False,True,True,True,126
-Mitsubishi,70792,230,diesel,blue,suv,True,True,False,True,False,True,True,211
 BMW,174479,155,diesel,white,suv,True,True,False,True,True,False,True,124
 BMW,104543,120,diesel,black,suv,True,True,False,True,False,False,True,88
 BMW,144658,135,diesel,silver,suv,True,True,False,True,True,True,True,139
@@ -4022,12 +3885,10 @@ Nissan,83133,100,diesel,black,suv,True,True,True,False,False,False,True,125
 Mitsubishi,154197,190,diesel,black,suv,False,True,False,True,True,False,True,186
 BMW,72615,140,diesel,black,suv,True,True,False,True,True,True,True,165
 Nissan,123272,130,diesel,white,suv,False,True,False,False,True,False,True,121
-Mitsubishi,52253,190,diesel,white,suv,True,True,True,True,True,False,True,216
 Nissan,159290,100,diesel,black,suv,False,True,True,False,True,False,True,118
 BMW,191968,135,diesel,white,suv,True,True,False,True,True,True,True,137
 BMW,59934,140,diesel,silver,suv,True,True,True,False,False,False,False,169
 Nissan,67954,120,diesel,grey,suv,False,True,False,False,False,False,True,119
-Subaru,35025,230,diesel,grey,suv,True,True,True,False,True,False,True,250
 Subaru,204017,210,diesel,black,suv,True,True,False,False,True,False,True,150
 BMW,138304,105,diesel,blue,suv,True,True,False,False,True,False,True,116
 BMW,196977,135,diesel,black,suv,False,True,False,True,False,False,True,123
@@ -4063,7 +3924,6 @@ Toyota,69720,190,diesel,black,suv,True,True,True,True,True,True,True,201
 BMW,137897,135,diesel,grey,suv,False,False,False,True,False,False,True,126
 BMW,123622,190,diesel,silver,suv,True,True,True,True,True,True,True,139
 BMW,132485,135,diesel,white,suv,True,True,False,False,False,False,True,131
-Mitsubishi,82397,230,diesel,white,suv,True,True,True,True,False,True,True,224
 Subaru,194325,225,diesel,black,suv,True,True,True,False,True,False,True,133
 BMW,161321,120,diesel,grey,suv,True,True,False,True,False,False,True,132
 Nissan,178770,105,diesel,black,suv,True,True,False,True,False,False,True,116
@@ -4106,7 +3966,6 @@ BMW,167739,140,diesel,blue,suv,True,True,False,False,False,False,True,142
 Nissan,203370,120,diesel,grey,suv,False,True,False,False,False,False,True,100
 Nissan,95667,100,diesel,brown,suv,False,True,True,True,False,False,True,118
 BMW,210624,190,diesel,black,suv,False,True,True,True,True,False,True,119
-Mitsubishi,62650,190,diesel,white,suv,True,True,False,True,True,True,True,213
 Nissan,222968,130,diesel,black,suv,False,False,False,False,False,False,True,109
 Nissan,47083,105,diesel,black,suv,True,True,False,True,True,False,True,148
 Nissan,111193,130,diesel,black,suv,True,False,True,True,False,False,True,117
@@ -4122,14 +3981,12 @@ Nissan,117589,85,diesel,grey,suv,False,True,False,False,False,False,True,115
 BMW,192124,130,diesel,black,suv,True,False,False,True,True,True,True,106
 Nissan,104005,135,diesel,black,suv,True,True,False,True,True,False,True,137
 BMW,147434,135,diesel,silver,suv,False,True,True,True,True,False,True,129
-Mitsubishi,24912,230,diesel,white,suv,True,True,True,True,False,False,True,236
 Nissan,96774,120,diesel,blue,suv,False,False,False,False,False,False,True,109
 BMW,99123,190,diesel,blue,suv,True,True,False,True,True,True,True,193
 BMW,165768,135,diesel,blue,suv,True,True,False,True,True,True,True,141
 Subaru,295953,225,diesel,black,suv,True,True,True,True,True,False,True,148
 Nissan,98664,100,diesel,black,suv,False,True,False,False,False,False,True,89
 BMW,110352,100,diesel,brown,suv,True,True,False,False,False,False,True,117
-Subaru,10955,190,diesel,black,suv,True,True,True,True,False,True,True,247
 Subaru,81124,225,petrol,black,suv,True,True,False,True,True,False,True,184
 BMW,117624,120,diesel,grey,suv,True,True,True,True,True,True,True,146
 Mitsubishi,222177,155,diesel,blue,suv,True,True,False,True,False,False,True,74
@@ -4170,8 +4027,6 @@ Mitsubishi,143183,190,diesel,black,suv,True,True,True,True,True,True,True,200
 Mitsubishi,84233,160,diesel,grey,suv,True,True,False,False,True,False,True,186
 BMW,111510,100,diesel,grey,suv,True,True,False,False,True,True,True,122
 Nissan,172038,105,diesel,black,suv,False,True,False,True,True,False,True,115
-Mitsubishi,66783,190,diesel,white,suv,True,True,False,True,False,True,True,215
-Mitsubishi,58960,190,diesel,blue,suv,True,True,True,True,True,True,False,213
 Nissan,48583,120,diesel,grey,suv,False,True,False,False,True,False,True,121
 Mitsubishi,274285,155,diesel,grey,suv,True,True,False,True,False,True,True,114
 Nissan,33045,105,diesel,black,suv,True,True,True,True,True,False,True,149
@@ -4186,7 +4041,6 @@ BMW,166214,135,diesel,blue,suv,True,True,False,True,True,False,True,144
 BMW,179458,135,diesel,white,suv,False,False,False,False,False,False,True,113
 BMW,131760,135,diesel,white,suv,True,True,False,False,False,False,True,131
 BMW,146363,120,diesel,black,suv,True,True,True,True,False,True,True,125
-SEAT,103222,140,diesel,grey,suv,True,True,False,False,True,False,True,378
 Nissan,115507,100,diesel,black,suv,True,True,False,False,False,False,True,106
 Mitsubishi,109032,173,diesel,black,suv,True,True,False,True,True,False,True,136
 Nissan,165301,160,diesel,black,suv,False,True,False,True,False,False,True,123
@@ -4206,7 +4060,6 @@ Mitsubishi,148480,155,diesel,silver,suv,True,True,True,True,True,False,True,189
 Mitsubishi,14503,160,diesel,grey,suv,True,True,True,False,False,False,True,208
 Mitsubishi,119854,190,diesel,black,suv,True,True,True,True,True,False,True,187
 SEAT,104396,190,diesel,black,suv,True,True,True,True,True,False,True,173
-Mitsubishi,220242,135,diesel,black,suv,False,False,False,True,False,False,True,60
 BMW,106088,135,diesel,black,suv,True,True,True,False,False,False,True,127
 BMW,119767,150,diesel,grey,suv,True,False,False,False,False,False,True,79
 BMW,92521,135,diesel,white,suv,False,False,False,False,False,False,False,141
@@ -4215,7 +4068,6 @@ BMW,123605,135,diesel,black,suv,False,True,False,True,True,False,True,142
 BMW,105298,135,diesel,grey,suv,False,False,False,False,False,False,False,148
 BMW,117393,190,diesel,black,suv,True,True,False,False,False,False,True,109
 Mitsubishi,95139,190,diesel,grey,suv,True,True,False,True,True,True,True,198
-Nissan,165882,105,diesel,white,suv,False,False,False,False,False,False,False,60
 BMW,49392,140,diesel,black,suv,True,True,True,False,True,True,True,166
 SEAT,61249,140,diesel,silver,suv,True,True,False,True,True,False,True,173
 Mitsubishi,99923,230,diesel,brown,suv,False,True,False,False,True,True,True,208
@@ -4227,10 +4079,8 @@ Mitsubishi,124274,190,diesel,grey,suv,True,True,True,True,False,True,True,185
 Subaru,64534,225,diesel,white,suv,True,True,True,True,False,False,True,200
 SEAT,148097,190,diesel,black,suv,False,True,False,True,True,False,True,173
 Mitsubishi,273655,155,diesel,grey,suv,True,True,False,True,False,True,True,117
-Mitsubishi,119639,230,diesel,white,suv,True,True,True,True,False,True,True,215
 BMW,177515,100,diesel,brown,suv,False,True,False,False,False,False,True,120
 BMW,155828,120,diesel,silver,suv,True,False,False,True,False,True,True,126
-Toyota,4530,230,diesel,silver,suv,True,True,False,True,False,False,False,270
 Nissan,55920,105,diesel,brown,suv,True,True,True,False,True,False,True,124
 Subaru,116784,180,diesel,grey,suv,True,True,True,True,True,True,True,163
 BMW,145188,190,diesel,blue,suv,True,True,True,True,True,True,True,158
@@ -4242,7 +4092,6 @@ Mitsubishi,96213,173,diesel,blue,suv,True,True,True,True,True,True,True,132
 Mitsubishi,195769,173,diesel,black,suv,True,True,False,False,True,False,True,117
 BMW,113966,120,diesel,grey,suv,True,True,True,True,False,False,True,129
 Nissan,118560,105,diesel,white,suv,False,True,False,False,True,False,True,123
-Subaru,52777,230,diesel,grey,suv,True,True,False,True,False,False,True,246
 BMW,75515,135,diesel,grey,suv,False,True,False,True,True,False,True,133
 BMW,196177,120,diesel,black,suv,False,True,False,True,True,False,True,124
 Nissan,183147,105,diesel,black,suv,False,False,False,True,False,False,True,117
@@ -4250,7 +4099,6 @@ Nissan,95610,120,diesel,grey,suv,True,True,True,False,True,True,True,122
 BMW,113613,110,diesel,grey,suv,True,True,True,True,True,False,True,92
 BMW,147878,140,diesel,white,suv,False,True,False,True,True,True,True,163
 BMW,156598,135,diesel,white,suv,True,True,True,True,True,True,True,138
-BMW,72515,135,diesel,blue,suv,False,False,True,False,False,False,False,422
 BMW,27480,120,diesel,grey,suv,True,True,False,False,True,True,True,161
 Mitsubishi,109034,190,diesel,blue,suv,False,True,False,True,True,False,True,181
 Nissan,177505,85,diesel,white,suv,False,True,False,False,False,False,True,112
@@ -4279,7 +4127,6 @@ Nissan,140161,105,diesel,black,suv,False,False,False,False,False,False,False,103
 Mitsubishi,151522,190,diesel,black,suv,True,True,False,True,True,False,True,182
 Nissan,221585,105,diesel,silver,suv,True,False,False,True,False,False,True,97
 BMW,131327,100,diesel,black,suv,True,True,False,False,False,False,True,114
-Mitsubishi,124645,230,diesel,silver,suv,True,True,True,True,False,False,True,212
 BMW,115514,135,diesel,black,suv,False,True,False,True,True,True,True,146
 Nissan,120600,85,diesel,black,suv,False,True,True,False,False,False,False,105
 Mitsubishi,203009,160,diesel,black,suv,False,True,False,True,True,False,True,169
@@ -4292,7 +4139,6 @@ Mitsubishi,158355,160,diesel,black,suv,True,False,True,False,True,False,True,186
 Mitsubishi,221328,155,diesel,grey,suv,True,True,False,True,False,False,True,130
 Toyota,125197,230,diesel,blue,suv,True,True,True,True,True,True,True,207
 BMW,194966,110,diesel,grey,suv,False,True,True,True,True,False,True,69
-Mitsubishi,87745,230,diesel,brown,suv,True,True,True,True,False,True,True,211
 Mitsubishi,111962,190,diesel,black,suv,True,True,False,False,True,False,True,163
 Mitsubishi,122949,190,diesel,brown,suv,True,True,True,True,False,True,True,194
 BMW,44487,110,diesel,white,suv,True,False,True,False,False,False,False,124
