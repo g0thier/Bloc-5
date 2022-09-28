@@ -112,10 +112,39 @@ fig.update_layout(
 fig.update_traces(marker=dict(colors=['#636EFA', '#EF553B']))
 st.plotly_chart(fig, use_container_width=True)
 
+
+
 #_______________________________________________________
 st.subheader('Pricing project :')
 dataset = pd.read_csv('src/get_around_pricing_project_clean.csv')
 st.dataframe(dataset)
+
+st.subheader('Informations about columns of Pricing project dataset :')
+dataset_plot = dataset
+target = 'rental_price_per_day'
+
+for column in dataset_plot.columns:
+    if dataset_plot[column].dtypes == "object":
+        # Quantitative Values
+        fig = px.histogram(dataset_plot[column])
+        fig.update_layout(title= f"{column.replace('_', ' ')}")
+        fig.update_layout(showlegend=False)
+        st.plotly_chart(fig, use_container_width=True)
+
+    elif dataset_plot[column].dtypes == bool:
+        # Bool Values 
+        cat_data = dataset_plot.groupby(column)[target].sum()
+        fig = px.bar(x=cat_data.index, y=cat_data, labels=dict(x="", y=""))
+        fig.update_layout(title= f"{column.replace('_', ' ')}")
+        st.plotly_chart(fig, use_container_width=True)
+
+    else:
+        # Qualitative Values
+        fig = px.histogram(dataset_plot[column])
+        fig.update_layout(title= f"{column.replace('_', ' ')}")
+        fig.update_layout(showlegend=False)
+        st.plotly_chart(fig, use_container_width=True)
+
 
 
 st.markdown("[How make my streamlit page](https://docs.streamlit.io/library/api-reference)")
