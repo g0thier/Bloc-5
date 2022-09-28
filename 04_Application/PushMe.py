@@ -11,9 +11,9 @@ if checkInstall == "yes" or checkInstall == 'y':
     os.system("brew tap heroku/brew && brew install heroku")
 
 print('')
-now = str(datetime.now().time())
-name = input("A name for heroku app (only letters):").lower()
-name = name + ''.join(re.findall('[0-9]+', now))
+now = str( datetime.today().strftime("%y%m%d%H%M%S") )
+name_input = input("A name for heroku app (only letters):").lower()
+name = f'{name_input}{now}'
 print('')
 
 os.system('docker')
