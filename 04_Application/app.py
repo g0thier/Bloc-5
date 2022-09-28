@@ -145,6 +145,8 @@ for column in dataset_plot.columns:
         fig.update_layout(showlegend=False)
         st.plotly_chart(fig, use_container_width=True)
 
+st.caption('This EDA page give some informations about Get Around datasets.')
+st.caption('Github of the project on this page : [Bloc n°5](https://github.com/g0thier/Bloc-5)')
+st.caption("Projet Bloc n°5 Jedha by [Gauthier Rammault](https://www.linkedin.com/in/gauthier-rammault/), the guy dreams to wanna be a real Data Scientist.")
 
-
-st.markdown("[How make my streamlit page](https://docs.streamlit.io/library/api-reference)")
+# st.markdown("[How make my streamlit page](https://docs.streamlit.io/library/api-reference)")

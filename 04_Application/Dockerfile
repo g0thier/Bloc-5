@@ -2,6 +2,7 @@ FROM continuumio/miniconda3
 
 WORKDIR /home/app
 COPY requirements.txt /home/app
+COPY /src /home/app/src
 
 RUN apt-get update
 RUN apt-get install nano unzip
