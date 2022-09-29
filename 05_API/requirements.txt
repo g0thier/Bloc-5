@@ -5,3 +5,5 @@ joblib
 numpy
 pandas
 sklearn
+typing
+python-multipart

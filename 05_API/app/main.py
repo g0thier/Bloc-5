@@ -13,9 +13,11 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import (OneHotEncoder, StandardScaler, LabelEncoder)
 
 # FastAPI requierements
-from fastapi import FastAPI
+from typing import Literal, List, Union
+from pydantic import BaseModel
+from fastapi import FastAPI, File, UploadFile
 import uvicorn
-from typing import Union
+import json
 
 #¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨#
 #         Importations         #
@@ -99,3 +101,80 @@ def read_item(item_id: int, q: Union[str, None] = None):
     return {"item_id": item_id, "q": q}
 
 
+
+class ModelCars(BaseModel):
+    model_key: Literal['Citroën', 'Peugeot', 'Renault', 'Audi', 'BMW', 'Mercedes', 
+                       'Volkswagen', 'Nissan', 'Mitsubishi', 'SEAT', 'Subaru', 'Toyota'] = 'Renault'
+    mileage: int = 142056
+    engine_power: int = 120
+    fuel: Literal['diesel', 'petrol'] = 'diesel'
+    paint_color: Literal['black', 'brown', 'grey', 'white', 'silver', 'blue'] = 'black'
+    car_type: Literal['estate', 'hatchback', 'sedan', 'subcompact', 'suv'] = 'estate'
+    private_parking_available: bool = True
+    has_gps: bool = True
+    has_air_conditioning: bool = False
+    automatic_car: bool = False
+    has_getaround_connect: bool = True
+    has_speed_regulator: bool = False
+    winter_tires: bool = True
+
+
+
+@app.post("/predict")
+async def predict(model_car: ModelCars):
+    # From API input to dict based on ModelCars
+    data_car = {
+        'model_key': [model_car.model_key],
+        'mileage': [model_car.mileage],
+        'engine_power': [model_car.engine_power],
+        'fuel': [model_car.fuel],
+        'paint_color': [model_car.paint_color],
+        'car_type': [model_car.car_type],
+        'private_parking_available': [model_car.private_parking_available],
+        'has_gps': [model_car.has_gps],
+        'has_air_conditioning': [model_car.has_air_conditioning],
+        'automatic_car': [model_car.automatic_car],
+        'has_getaround_connect': [model_car.has_getaround_connect],
+        'has_speed_regulator': [model_car.has_speed_regulator],
+        'winter_tires': [model_car.winter_tires],
+    }
+    # From Dict to Pandas
+    X_pred = pd.DataFrame.from_dict(data_car)
+    # From Normal to preprocessed
+    X_pred = preprocessor.transform(X_pred)
+    # Prediction 
+    Y_pred = model.predict(X_pred)[0]
+    # Format response
+    response = {"prediction": Y_pred}
+    return response
+
+
+@app.post("/predict_json/")
+async def predict_json(file: UploadFile = File(...)):
+    # From Dict to Pandas
+    X_pred = pd.read_json(file.file)
+    # From Normal to preprocessed
+    X_pred = preprocessor.transform(X_pred)
+    # Prediction 
+    Y_pred = model.predict(X_pred)[0]
+    # Format response
+    response = {"prediction": Y_pred}
+    return response
+
+'''
+
+@app.post("/predict_json/")
+def predict_json(upload_file: UploadFile = File(...)):
+    # Import Json
+    json_data = json.load(upload_file.file)
+    # From Json to Pandas
+    X_pred = pd.read_json(json_data)
+    # From Normal to preprocessed
+    X_pred = preprocessor.transform(X_pred)
+    # Prediction 
+    Y_pred = model.predict(X_pred)[0]
+    # Format response
+    response = {"prediction": Y_pred}
+    return response
+
+'''
