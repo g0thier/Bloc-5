@@ -96,11 +96,6 @@ def read_root():
     return {"Hello": "World"}
 
 
-@app.get("/items/{item_id}")
-def read_item(item_id: int, q: Union[str, None] = None):
-    return {"item_id": item_id, "q": q}
-
-
 
 class ModelCars(BaseModel):
     model_key: Literal['Citroën', 'Peugeot', 'Renault', 'Audi', 'BMW', 'Mercedes', 
@@ -117,6 +112,36 @@ class ModelCars(BaseModel):
     has_getaround_connect: bool = True
     has_speed_regulator: bool = False
     winter_tires: bool = True
+
+
+
+@app.get("/get_predict/{model_key}")
+async def get_predict(model_key: str = 'Renault', mileage: int = 142056, engine_power: int = 120, 
+                      fuel: str = 'diesel', paint_color: str = 'black', car_type: str = 'estate', 
+                      private_parking_available: bool = True, has_gps: bool = True, 
+                      has_air_conditioning: bool = False, automatic_car: bool = False, 
+                      has_getaround_connect: bool = True, has_speed_regulator: bool = False, 
+                      winter_tires: bool = True):
+    data_car = {
+        'model_key': [model_key], 'mileage': [mileage],
+        'engine_power': [engine_power], 'fuel': [fuel],
+        'paint_color': [paint_color], 'car_type': [car_type],
+        'private_parking_available': [private_parking_available],
+        'has_gps': [has_gps], 'has_air_conditioning': [has_air_conditioning],
+        'automatic_car': [automatic_car], 'has_getaround_connect': [has_getaround_connect],
+        'has_speed_regulator': [has_speed_regulator], 'winter_tires': [winter_tires]
+    }
+    # From Dict to Pandas
+    X_pred = pd.DataFrame.from_dict(data_car)
+    # From Normal to preprocessed
+    X_pred = preprocessor.transform(X_pred)
+    # Prediction 
+    Y_pred = model.predict(X_pred)[0]
+    # Round 
+    Y_pred = [int(x) for x in Y_pred]
+    # Format response
+    response = {"prediction": Y_pred}
+    return response
 
 
 
@@ -143,7 +168,9 @@ async def predict(model_car: ModelCars):
     # From Normal to preprocessed
     X_pred = preprocessor.transform(X_pred)
     # Prediction 
-    Y_pred = model.predict(X_pred)[0]
+    Y_pred = model.predict(X_pred)
+    # Round 
+    Y_pred = [int(x) for x in Y_pred]
     # Format response
     response = {"prediction": Y_pred}
     return response
@@ -156,25 +183,9 @@ async def predict_json(file: UploadFile = File(...)):
     # From Normal to preprocessed
     X_pred = preprocessor.transform(X_pred)
     # Prediction 
-    Y_pred = model.predict(X_pred)[0]
+    Y_pred = model.predict(X_pred)
+    # Round 
+    Y_pred = [int(x) for x in Y_pred]
     # Format response
     response = {"prediction": Y_pred}
     return response
-
-'''
-
-@app.post("/predict_json/")
-def predict_json(upload_file: UploadFile = File(...)):
-    # Import Json
-    json_data = json.load(upload_file.file)
-    # From Json to Pandas
-    X_pred = pd.read_json(json_data)
-    # From Normal to preprocessed
-    X_pred = preprocessor.transform(X_pred)
-    # Prediction 
-    Y_pred = model.predict(X_pred)[0]
-    # Format response
-    response = {"prediction": Y_pred}
-    return response
-
-'''
