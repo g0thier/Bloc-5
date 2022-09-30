@@ -1,10 +1,7 @@
 fastapi
 pydantic
 uvicorn
-gunicorn
 joblib
-nano
-nanolib
 numpy
 pandas
 sklearn

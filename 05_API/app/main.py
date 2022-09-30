@@ -96,7 +96,7 @@ description = """
 """
 
 app = FastAPI(
-    title="🚗 Get Around Analysis",
+    title="🚗 Get Around API",
     description=description,
     version="0.1",
     #contact={
