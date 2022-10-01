@@ -4,6 +4,11 @@
 
 * Foo
 
+## Links 
+
+* [API on Heroku](https://getaroundapi-rg.herokuapp.com)
+* [EDA on Heroku](https://getaroundweb-rg.herokuapp.com)
+
 ## Goals
 
 In order to mitigate those issues we’ve decided to implement a minimum delay between two rentals. A car won’t be displayed in the search results if the requested checkin or checkout times are too close from an already booked rental.
