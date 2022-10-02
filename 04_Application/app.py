@@ -17,7 +17,10 @@ st.set_page_config(layout="wide")
 
 st.title('Get Around Analysis.')
 
-#_______________________________________________________
+#¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨#
+#   Plot of Delay analysis   #
+#____________________________#
+
 st.header('Delay analysis :')
 
 
@@ -113,8 +116,10 @@ fig.update_traces(marker=dict(colors=['#636EFA', '#EF553B']))
 st.plotly_chart(fig, use_container_width=True)
 
 
+#¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨#
+#   Plot of Pricing project   #
+#_____________________________#
 
-#_______________________________________________________
 st.subheader('Pricing project :')
 dataset = pd.read_csv('src/get_around_pricing_project_clean.csv')
 st.dataframe(dataset)
