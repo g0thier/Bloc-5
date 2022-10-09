@@ -1,8 +1,11 @@
 # Bloc n°5 : Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision.
+## Contact 
+
+[voguant-cal0n@icloud.com](mailto:voguant-cal0n@icloud.com)
 
 ## Video explain
 
-* Foo
+[Bloc n°5 : Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision.](https://youtu.be/aTxdoclEj9c "Bloc n°5")
 
 ## Links 
 
